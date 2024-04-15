@@ -16,14 +16,14 @@ Riley Adams,/players/a/adamsri03.shtml,1996-06-26,2021-06-08,['Catcher'],Washing
 Ty Adcock,/players/a/adcocty01.shtml,1997-02-07,2023-06-12,['Pitcher'],SeattleMariners
 Jo Adell,/players/a/adelljo01.shtml,1999-04-08,2020-08-04,['Outfielder'],LosAngelesAngels
 Joan Adon,/players/a/adonjo01.shtml,1998-08-12,2021-10-03,['Pitcher'],WashingtonNationals
-Ehire Adrianza,/players/a/adriaeh01.shtml,1989-08-21,2013-09-08,"['Shortstop,PinchHitter', 'ThirdBaseman']",LosAngelesAngels
+Ehire Adrianza,/players/a/adriaeh01.shtml,1989-08-21,2013-09-08,"['Shortstop', 'PinchHitter', 'ThirdBaseman']",LosAngelesAngels
 Nick Ahmed,/players/a/ahmedni01.shtml,1990-03-15,2014-06-29,['Shortstop'],SanFranciscoGiants
 Keegan Akin,/players/a/akinke01.shtml,1995-04-01,2020-08-14,['Pitcher'],BaltimoreOrioles
 Ozzie Albies,/players/a/albieoz01.shtml,1997-01-07,2017-08-01,['SecondBaseman'],AtlantaBraves
 Jorge Alcalá,/players/a/alcaljo01.shtml,1995-07-28,2019-09-21,['Pitcher'],MinnesotaTwins
 Sandy Alcántara,/players/a/alcansa01.shtml,1995-09-07,2017-09-03,['Pitcher'],MiamiMarlins
-Sergio Alcántara,/players/a/alcanse01.shtml,1996-07-10,2020-09-06,"['Shortstop,SecondBaseman', 'ThirdBaseman']",PittsburghPirates
-Blaze Alexander,/players/a/alexabl01.shtml,1999-06-11,,"['Shortstop,DesignatedHitter', 'SecondBaseman']",ArizonaDiamondbacks
+Sergio Alcántara,/players/a/alcanse01.shtml,1996-07-10,2020-09-06,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",PittsburghPirates
+Blaze Alexander,/players/a/alexabl01.shtml,1999-06-11,,"['Shortstop', 'DesignatedHitter', 'SecondBaseman']",ArizonaDiamondbacks
 Jason Alexander,/players/a/alexaja01.shtml,1993-03-01,2022-06-01,['Pitcher'],BostonRedSox
 Scott Alexander,/players/a/alexasc02.shtml,1989-07-10,2015-09-02,['Pitcher'],OaklandAthletics
 Tyler Alexander,/players/a/alexaty01.shtml,1994-07-14,2019-07-03,['Pitcher'],TampaBayRays
@@ -31,7 +31,7 @@ A.J. Alexy,/players/a/alexyaj01.shtml,1998-04-21,2021-08-30,['Pitcher'],Minnesot
 Anthony Alford,/players/a/alforan01.shtml,1994-07-20,2017-05-19,['Outfielder'],CincinnatiReds
 Kolby Allard,/players/a/allarko01.shtml,1997-08-13,2018-07-31,['Pitcher'],PhiladelphiaPhillies
 Cam Alldred,/players/a/alldrca01.shtml,1996-07-25,2022-05-12,['Pitcher'],PittsburghPirates
-Austin Allen,/players/a/allenau01.shtml,1994-01-16,2019-05-11,"['Catcher,PinchHitter', 'FirstBaseman']",NewYorkMets
+Austin Allen,/players/a/allenau01.shtml,1994-01-16,2019-05-11,"['Catcher', 'PinchHitter', 'FirstBaseman']",NewYorkMets
 Greg Allen,/players/a/allengr01.shtml,1993-03-15,2017-09-01,['Outfielder'],NewYorkYankees
 Logan Allen,/players/a/allenlo01.shtml,1997-05-23,2019-06-18,['Pitcher'],ArizonaDiamondbacks
 Logan Allen,/players/a/allenlo02.shtml,1998-09-05,2023-04-23,['Pitcher'],ClevelandGuardians
@@ -41,9 +41,9 @@ Albert Almora,/players/a/almoral01.shtml,1994-04-16,2016-06-07,['Centerfielder']
 Pete Alonso,/players/a/alonspe01.shtml,1994-12-07,2019-03-28,['FirstBaseman'],NewYorkMets
 Dan Altavilla,/players/a/altavda01.shtml,1992-09-08,2016-08-27,['Pitcher'],KansasCityRoyals
 Jose Altuve,/players/a/altuvjo01.shtml,1990-05-06,2011-07-20,['SecondBaseman'],HoustonAstros
-Jake Alu,/players/a/aluja01.shtml,1997-04-06,2023-05-09,"['Leftfielder,SecondBaseman', 'ThirdBaseman']",WashingtonNationals
+Jake Alu,/players/a/aluja01.shtml,1997-04-06,2023-05-09,"['Leftfielder', 'SecondBaseman', 'ThirdBaseman']",WashingtonNationals
 José Alvarado,/players/a/alvarjo03.shtml,1995-05-21,2017-05-03,['Pitcher'],PhiladelphiaPhillies
-Eddy Alvarez,/players/a/alvared01.shtml,1990-01-30,2020-08-05,"['ThirdBaseman,SecondBaseman', 'Rightfielder']",BostonRedSox
+Eddy Alvarez,/players/a/alvared01.shtml,1990-01-30,2020-08-05,"['ThirdBaseman', 'SecondBaseman', 'Rightfielder']",BostonRedSox
 Francisco Alvarez,/players/a/alvarfr01.shtml,2001-11-19,2022-09-30,['Catcher'],NewYorkMets
 Yordan Alvarez,/players/a/alvaryo01.shtml,1997-06-27,2019-06-09,"['DesignatedHitter', 'Leftfielder']",HoustonAstros
 Adbert Alzolay,/players/a/alzolad01.shtml,1995-03-01,2019-06-20,['Pitcher'],ChicagoCubs
@@ -62,16 +62,16 @@ Clayton Andrews,/players/a/andrecl02.shtml,1997-01-04,2023-07-01,['Pitcher'],New
 Matt Andriese,/players/a/andrima01.shtml,1989-08-28,2015-04-10,['Pitcher'],MiamiMarlins
 Miguel Andujar,/players/a/andujmi01.shtml,1995-03-02,2017-06-28,"['ThirdBaseman', 'Leftfielder']",OaklandAthletics
 Tejay Antone,/players/a/antonte01.shtml,1993-12-05,2020-07-27,['Pitcher'],CincinnatiReds
-Jonathan Aranda,/players/a/arandjo01.shtml,1998-05-23,2022-06-24,"['FirstBaseman,PinchHitter', 'SecondBaseman']",TampaBayRays
-Jonathan Araúz,/players/a/arauzjo01.shtml,1998-08-03,2020-07-24,"['SecondBaseman,ThirdBaseman', 'Shortstop']",LosAngelesDodgers
+Jonathan Aranda,/players/a/arandjo01.shtml,1998-05-23,2022-06-24,"['FirstBaseman', 'PinchHitter', 'SecondBaseman']",TampaBayRays
+Jonathan Araúz,/players/a/arauzjo01.shtml,1998-08-03,2020-07-24,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",LosAngelesDodgers
 Orlando Arcia,/players/a/arciaor01.shtml,1994-08-04,2016-08-02,"['Shortstop', 'SecondBaseman']",AtlantaBraves
 Nolan Arenado,/players/a/arenano01.shtml,1991-04-16,2013-04-28,['ThirdBaseman'],St.LouisCardinals
-Gabriel Arias,/players/a/ariasga01.shtml,2000-02-27,2022-04-20,"['Shortstop,FirstBaseman', 'ThirdBaseman']",ClevelandGuardians
+Gabriel Arias,/players/a/ariasga01.shtml,2000-02-27,2022-04-20,"['Shortstop', 'FirstBaseman', 'ThirdBaseman']",ClevelandGuardians
 Shawn Armstrong,/players/a/armstsh01.shtml,1990-09-11,2015-08-08,['Pitcher'],TampaBayRays
 Randy Arozarena,/players/a/arozara01.shtml,1995-02-28,2019-08-14,['Leftfielder'],TampaBayRays
-Luis Arráez,/players/a/arraelu01.shtml,1997-04-09,2019-05-18,"['SecondBaseman,ThirdBaseman', 'FirstBaseman']",MiamiMarlins
+Luis Arráez,/players/a/arraelu01.shtml,1997-04-09,2019-05-18,"['SecondBaseman', 'ThirdBaseman', 'FirstBaseman']",MiamiMarlins
 Spencer Arrighetti,/players/a/arrigsp01.shtml,2000-01-02,,['Pitcher'],HoustonAstros
-Christian Arroyo,/players/a/arroych01.shtml,1995-05-30,2017-04-24,"['SecondBaseman,ThirdBaseman', 'Shortstop']",MilwaukeeBrewers
+Christian Arroyo,/players/a/arroych01.shtml,1995-05-30,2017-04-24,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",MilwaukeeBrewers
 Aaron Ashby,/players/a/ashbyaa01.shtml,1998-05-24,2021-06-30,['Pitcher'],MilwaukeeBrewers
 Graham Ashcraft,/players/a/ashcrgr01.shtml,1998-02-11,2022-05-22,['Pitcher'],CincinnatiReds
 Javier Assad,/players/a/assadja01.shtml,1997-07-30,2022-08-23,['Pitcher'],ChicagoCubs
@@ -82,14 +82,14 @@ Sam Bachman,/players/b/bachmsa01.shtml,1999-09-30,2023-05-26,['Pitcher'],LosAnge
 Akil Baddoo,/players/b/baddoak01.shtml,1998-08-16,2021-04-04,['Leftfielder'],DetroitTigers
 Harrison Bader,/players/b/baderha01.shtml,1994-06-03,2017-07-25,['Centerfielder'],NewYorkMets
 Ji Hwan Bae,/players/b/baeji01.shtml,1999-07-26,2022-09-23,"['SecondBaseman', 'Centerfielder']",PittsburghPirates
-Javier Báez,/players/b/baezja01.shtml,1992-12-01,2014-08-05,"['Shortstop,SecondBaseman', 'ThirdBaseman']",DetroitTigers
+Javier Báez,/players/b/baezja01.shtml,1992-12-01,2014-08-05,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",DetroitTigers
 Patrick Bailey,/players/b/bailepa01.shtml,1999-05-29,2023-05-19,['Catcher'],SanFranciscoGiants
 Bryan Baker,/players/b/bakerbr01.shtml,1994-12-02,2021-09-05,['Pitcher'],BaltimoreOrioles
 Luken Baker,/players/b/bakerlu01.shtml,1997-03-10,2023-06-04,"['DesignatedHitter', 'FirstBaseman']",St.LouisCardinals
 Jordan Balazovic,/players/b/balazjo02.shtml,1998-09-17,2023-06-18,['Pitcher'],MinnesotaTwins
 Anthony Banda,/players/b/bandaan01.shtml,1993-08-10,2017-07-22,['Pitcher'],ClevelandGuardians
 Tanner Banks,/players/b/banksta01.shtml,1991-10-24,2022-04-10,['Pitcher'],ChicagoWhiteSox
-Rylan Bannon,/players/b/bannory01.shtml,1996-04-22,2022-05-12,"['ThirdBaseman,DesignatedHitter', 'SecondBaseman']",NewYorkMets
+Rylan Bannon,/players/b/bannory01.shtml,1996-04-22,2022-05-12,"['ThirdBaseman', 'DesignatedHitter', 'SecondBaseman']",NewYorkMets
 Daniel Bard,/players/b/bardda01.shtml,1985-06-25,2009-05-13,['Pitcher'],ColoradoRockies
 Joe Barlow,/players/b/barlojo01.shtml,1995-09-28,2021-06-24,['Pitcher'],ChicagoWhiteSox
 Scott Barlow,/players/b/barlosc01.shtml,1992-12-18,2018-04-30,['Pitcher'],ClevelandGuardians
@@ -101,9 +101,9 @@ Jose Barrero,/players/g/garcijo02.shtml,1998-04-05,2020-08-27,"['Shortstop', 'Ce
 Jaime Barria,/players/b/barrija01.shtml,1996-07-18,2018-04-11,['Pitcher'],ClevelandGuardians
 Jorge Barrosa,/players/b/barrojo01.shtml,2001-02-17,,"['Centerfielder', 'PinchHitter']",ArizonaDiamondbacks
 Joey Bart,/players/b/bartjo01.shtml,1996-12-15,2020-08-20,['Catcher'],PittsburghPirates
-Osleivis Basabe,/players/b/basabos01.shtml,2000-09-13,2023-08-13,"['Shortstop,ThirdBaseman', 'SecondBaseman']",TampaBayRays
+Osleivis Basabe,/players/b/basabos01.shtml,2000-09-13,2023-08-13,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",TampaBayRays
 Chris Bassitt,/players/b/bassich01.shtml,1989-02-22,2014-08-30,['Pitcher'],TorontoBlueJays
-Matthew Batten,/players/b/battema01.shtml,1995-06-22,2022-06-30,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",SanDiegoPadres
+Matthew Batten,/players/b/battema01.shtml,1995-06-22,2022-06-30,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",SanDiegoPadres
 Brett Baty,/players/b/batybr01.shtml,1999-11-13,2022-08-17,['ThirdBaseman'],NewYorkMets
 Jake Bauers,/players/b/bauerja01.shtml,1995-10-06,2018-06-07,"['FirstBaseman', 'Outfielder']",MilwaukeeBrewers
 Mike Baumann,/players/b/baumami01.shtml,1995-09-10,2021-09-07,['Pitcher'],BaltimoreOrioles
@@ -128,7 +128,7 @@ Wynton Bernard,/players/b/bernawy01.shtml,1990-09-24,2022-08-12,['Centerfielder'
 Brennan Bernardino,/players/b/bernabr01.shtml,1992-01-15,2022-07-31,['Pitcher'],BostonRedSox
 José Berríos,/players/b/berrijo01.shtml,1994-05-27,2016-04-27,['Pitcher'],TorontoBlueJays
 Prelander Berroa,/players/b/berropr01.shtml,2000-04-18,2023-07-21,['Pitcher'],ChicagoWhiteSox
-Jon Berti,/players/b/bertijo01.shtml,1990-01-22,2018-09-26,"['ThirdBaseman,SecondBaseman', 'Shortstop']",NewYorkYankees
+Jon Berti,/players/b/bertijo01.shtml,1990-01-22,2018-09-26,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",NewYorkYankees
 Christian Bethancourt,/players/b/bethach01.shtml,1991-09-02,2013-09-29,"['Catcher', 'FirstBaseman']",MiamiMarlins
 Mookie Betts,/players/b/bettsmo01.shtml,1992-10-07,2014-06-29,"['Rightfielder', 'SecondBaseman']",LosAngelesDodgers
 Tanner Bibee,/players/b/bibeeta01.shtml,1999-03-05,2023-04-26,['Pitcher'],ClevelandGuardians
@@ -137,15 +137,15 @@ Phil Bickford,/players/b/bickfph01.shtml,1995-07-10,2020-09-01,['Pitcher'],NewYo
 Osvaldo Bido,/players/b/bidoos01.shtml,1995-10-18,2023-06-14,['Pitcher'],OaklandAthletics
 Shane Bieber,/players/b/biebesh01.shtml,1995-05-31,2018-05-31,['Pitcher'],ClevelandGuardians
 Brandon Bielak,/players/b/bielabr01.shtml,1996-04-02,2020-07-27,['Pitcher'],HoustonAstros
-Cavan Biggio,/players/b/biggica01.shtml,1995-04-11,2019-05-24,"['SecondBaseman,Rightfielder', 'ThirdBaseman']",TorontoBlueJays
+Cavan Biggio,/players/b/biggica01.shtml,1995-04-11,2019-05-24,"['SecondBaseman', 'Rightfielder', 'ThirdBaseman']",TorontoBlueJays
 Jake Bird,/players/b/birdja01.shtml,1995-12-04,2022-06-16,['Pitcher'],ColoradoRockies
 Ty Blach,/players/b/blachty01.shtml,1990-10-20,2016-09-05,['Pitcher'],ColoradoRockies
 Paul Blackburn,/players/b/blackpa01.shtml,1993-12-04,2017-07-01,['Pitcher'],OaklandAthletics
 Charlie Blackmon,/players/b/blackch02.shtml,1986-07-01,2011-06-07,['Outfielder'],ColoradoRockies
 Dairon Blanco,/players/b/blancda02.shtml,1993-04-26,2022-05-20,"['Outfielder', 'PinchRunner']",KansasCityRoyals
 Ronel Blanco,/players/b/blancro01.shtml,1993-08-31,2022-04-08,['Pitcher'],HoustonAstros
-Alex Blandino,/players/b/blandal01.shtml,1992-11-06,2018-04-10,"['PinchHitter,SecondBaseman', 'ThirdBaseman']",
-Travis Blankenhorn,/players/b/blanktr01.shtml,1996-08-03,2020-09-15,"['PinchHitter,Leftfielder', 'SecondBaseman']",WashingtonNationals
+Alex Blandino,/players/b/blandal01.shtml,1992-11-06,2018-04-10,"['PinchHitter', 'SecondBaseman', 'ThirdBaseman']",
+Travis Blankenhorn,/players/b/blanktr01.shtml,1996-08-03,2020-09-15,"['PinchHitter', 'Leftfielder', 'SecondBaseman']",WashingtonNationals
 JJ Bleday,/players/b/bledajj01.shtml,1997-11-10,2022-07-23,['Outfielder'],OaklandAthletics
 Richard Bleier,/players/b/bleieri01.shtml,1987-04-16,2016-05-30,['Pitcher'],WashingtonNationals
 Scott Blewett,/players/b/blewesc01.shtml,1996-04-10,2020-09-18,['Pitcher'],MinnesotaTwins
@@ -175,20 +175,20 @@ Will Brennan,/players/b/brennwi02.shtml,1998-02-02,2022-09-21,['Rightfielder'],C
 Jake Brentz,/players/b/brentja01.shtml,1994-09-14,2021-04-03,['Pitcher'],KansasCityRoyals
 Colten Brewer,/players/b/breweco01.shtml,1992-10-29,2018-04-12,['Pitcher'],ChicagoCubs
 Austin Brice,/players/b/briceau01.shtml,1992-06-19,2016-08-12,['Pitcher'],
-Jonah Bride,/players/b/bridejo01.shtml,1995-12-27,2022-06-14,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",MiamiMarlins
+Jonah Bride,/players/b/bridejo01.shtml,1995-12-27,2022-06-14,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",MiamiMarlins
 Beau Brieske,/players/b/briesbe01.shtml,1998-04-04,2022-04-23,['Pitcher'],DetroitTigers
 Jeff Brigham,/players/b/brighje01.shtml,1992-02-16,2018-09-02,['Pitcher'],MinnesotaTwins
 Jhony Brito,/players/b/britojh01.shtml,1998-02-17,2023-04-02,['Pitcher'],SanDiegoPadres
 Connor Brogdon,/players/b/brogdco01.shtml,1995-01-29,2020-08-13,['Pitcher'],LosAngelesDodgers
 Aaron Brooks,/players/b/brookaa01.shtml,1990-04-27,2014-05-03,['Pitcher'],OaklandAthletics
-Mike Brosseau,/players/b/brossmi01.shtml,1994-03-15,2019-06-23,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",KansasCityRoyals
+Mike Brosseau,/players/b/brossmi01.shtml,1994-03-15,2019-06-23,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",KansasCityRoyals
 Ben Brown,/players/b/brownbe02.shtml,1999-09-09,,['Pitcher'],ChicagoCubs
 Hunter Brown,/players/b/brownhu01.shtml,1998-08-29,2022-09-05,['Pitcher'],HoustonAstros
 Seth Brown,/players/b/brownse01.shtml,1992-07-13,2019-08-26,"['Outfielder', 'FirstBaseman']",OaklandAthletics
 JT Brubaker,/players/b/brubajt01.shtml,1993-11-17,2020-07-26,['Pitcher'],NewYorkYankees
 Justin Bruihl,/players/b/bruihju01.shtml,1997-06-26,2021-08-08,['Pitcher'],CincinnatiReds
-Vidal Bruján,/players/b/brujavi01.shtml,1998-02-09,2021-07-07,"['SecondBaseman,Rightfielder', 'Shortstop']",MiamiMarlins
-Kris Bryant,/players/b/bryankr01.shtml,1992-01-04,2015-04-17,"['ThirdBaseman,Outfielder', 'FirstBaseman']",ColoradoRockies
+Vidal Bruján,/players/b/brujavi01.shtml,1998-02-09,2021-07-07,"['SecondBaseman', 'Rightfielder', 'Shortstop']",MiamiMarlins
+Kris Bryant,/players/b/bryankr01.shtml,1992-01-04,2015-04-17,"['ThirdBaseman', 'Outfielder', 'FirstBaseman']",ColoradoRockies
 Kris Bubic,/players/b/bubickr01.shtml,1997-08-19,2020-07-31,['Pitcher'],KansasCityRoyals
 David Buchanan,/players/b/buchada01.shtml,1989-05-11,2014-05-24,['Pitcher'],PhiladelphiaPhillies
 Walker Buehler,/players/b/buehlwa01.shtml,1994-07-28,2017-09-07,['Pitcher'],LosAngelesDodgers
@@ -196,9 +196,9 @@ JB Bukauskas,/players/b/bukaujb01.shtml,1996-10-11,2021-04-20,['Pitcher'],Milwau
 Aaron Bummer,/players/b/bummeaa01.shtml,1993-09-21,2017-07-27,['Pitcher'],AtlantaBraves
 Nick Burdi,/players/b/burdini01.shtml,1993-01-19,2018-09-11,['Pitcher'],NewYorkYankees
 Peyton Burdick,/players/b/burdipe01.shtml,1997-02-26,2022-08-05,['Outfielder'],BaltimoreOrioles
-Jake Burger,/players/b/burgeja01.shtml,1996-04-10,2021-07-02,"['ThirdBaseman,FirstBaseman', 'SecondBaseman']",MiamiMarlins
+Jake Burger,/players/b/burgeja01.shtml,1996-04-10,2021-07-02,"['ThirdBaseman', 'FirstBaseman', 'SecondBaseman']",MiamiMarlins
 Brock Burke,/players/b/burkebr01.shtml,1996-08-04,2019-08-20,['Pitcher'],TexasRangers
-Alec Burleson,/players/b/burleal01.shtml,1998-11-25,2022-09-08,"['Outfielder,DesignatedHitter', 'FirstBaseman']",St.LouisCardinals
+Alec Burleson,/players/b/burleal01.shtml,1998-11-25,2022-09-08,"['Outfielder', 'DesignatedHitter', 'FirstBaseman']",St.LouisCardinals
 Corbin Burnes,/players/b/burneco01.shtml,1994-10-22,2018-07-10,['Pitcher'],BaltimoreOrioles
 Ryan Burr,/players/b/burrry01.shtml,1994-05-28,2018-08-23,['Pitcher'],PhiladelphiaPhillies
 Beau Burrows,/players/b/burrobe01.shtml,1996-09-18,2020-07-27,['Pitcher'],PhiladelphiaPhillies
@@ -208,35 +208,35 @@ Lawrence Butler,/players/b/butlela01.shtml,2000-07-10,2023-08-11,['Centerfielder
 José Buttó,/players/b/buttojo01.shtml,1998-03-19,2022-08-21,['Pitcher'],NewYorkMets
 Ty Buttrey,/players/b/buttrty01.shtml,1993-03-31,2018-08-16,['Pitcher'],SeattleMariners
 Byron Buxton,/players/b/buxtoby01.shtml,1993-12-18,2015-06-14,['Centerfielder'],MinnesotaTwins
-José Caballero,/players/c/cabaljo01.shtml,1996-08-30,2023-04-15,"['SecondBaseman,Shortstop', 'ThirdBaseman']",TampaBayRays
+José Caballero,/players/c/cabaljo01.shtml,1996-08-30,2023-04-15,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",TampaBayRays
 Trey Cabbage,/players/c/cabbatr01.shtml,1997-05-03,2023-07-14,"['Outfielder', 'FirstBaseman']",HoustonAstros
 Edward Cabrera,/players/c/cabreed02.shtml,1998-04-13,2021-08-25,['Pitcher'],MiamiMarlins
 Génesis Cabrera,/players/c/cabrege01.shtml,1996-10-10,2019-05-29,['Pitcher'],TorontoBlueJays
-Oswaldo Cabrera,/players/c/cabreos01.shtml,1999-03-01,2022-08-17,"['Outfielder,ThirdBaseman', 'Shortstop']",NewYorkYankees
+Oswaldo Cabrera,/players/c/cabreos01.shtml,1999-03-01,2022-08-17,"['Outfielder', 'ThirdBaseman', 'Shortstop']",NewYorkYankees
 Kelvin Caceres,/players/c/cacerke01.shtml,2000-01-26,2023-09-27,['Pitcher'],LosAngelesAngels
 Willie Calhoun,/players/c/calhowi01.shtml,1994-11-04,2017-09-12,"['Leftfielder', 'DesignatedHitter']",LosAngelesAngels
 Alex Call,/players/c/callal02.shtml,1994-09-27,2022-07-11,['Outfielder'],WashingtonNationals
 Blair Calvo,/players/c/calvobl01.shtml,1996-02-27,2023-05-30,['Pitcher'],DetroitTigers
 Daniel Camarena,/players/c/camarda01.shtml,1992-11-09,2021-06-19,['Pitcher'],SanDiegoPadres
 Daz Cameron,/players/c/camerda01.shtml,1997-01-15,2020-09-09,['Outfielder'],OaklandAthletics
-Junior Caminero,/players/c/caminju01.shtml,2003-07-05,2023-09-23,"['ThirdBaseman,DesignatedHitter', 'Shortstop']",TampaBayRays
+Junior Caminero,/players/c/caminju01.shtml,2003-07-05,2023-09-23,"['ThirdBaseman', 'DesignatedHitter', 'Shortstop']",TampaBayRays
 Isaiah Campbell,/players/c/campbis01.shtml,1997-08-15,2023-07-07,['Pitcher'],BostonRedSox
 Paul Campbell,/players/c/campbpa02.shtml,1995-07-26,2021-04-03,['Pitcher'],MiamiMarlins
 Luis Campusano,/players/c/campulu01.shtml,1998-09-29,2020-09-04,['Catcher'],SanDiegoPadres
-Alexander Canario,/players/c/canaral01.shtml,2000-05-07,2023-09-06,"['DesignatedHitter,Outfielder', 'PinchHitter']",ChicagoCubs
+Alexander Canario,/players/c/canaral01.shtml,2000-05-07,2023-09-06,"['DesignatedHitter', 'Outfielder', 'PinchHitter']",ChicagoCubs
 Jeimer Candelario,/players/c/candeje01.shtml,1993-11-24,2016-07-03,"['ThirdBaseman', 'FirstBaseman']",CincinnatiReds
 Mark Canha,/players/c/canhama01.shtml,1989-02-15,2015-04-08,"['Outfielder', 'FirstBaseman']",DetroitTigers
 Griffin Canning,/players/c/cannigr01.shtml,1996-05-11,2019-04-30,['Pitcher'],LosAngelesAngels
 Yennier Cano,/players/c/canoye01.shtml,1994-03-09,2022-05-11,['Pitcher'],BaltimoreOrioles
 Dominic Canzone,/players/c/canzodo01.shtml,1997-08-16,2023-07-08,['Leftfielder'],SeattleMariners
 Conner Capel,/players/c/capelco01.shtml,1997-05-19,2022-06-27,['Rightfielder'],CincinnatiReds
-Vinny Capra,/players/c/capravi01.shtml,1996-07-07,2022-05-01,"['PinchHitter,SecondBaseman', 'ThirdBaseman']",MilwaukeeBrewers
+Vinny Capra,/players/c/capravi01.shtml,1996-07-07,2022-05-01,"['PinchHitter', 'SecondBaseman', 'ThirdBaseman']",MilwaukeeBrewers
 Matt Carasiti,/players/c/carasma01.shtml,1991-07-23,2016-08-12,['Pitcher'],ColoradoRockies
 Victor Caratini,/players/c/caratvi01.shtml,1993-08-17,2017-06-28,"['Catcher', 'FirstBaseman']",HoustonAstros
 Dylan Carlson,/players/c/carlsdy01.shtml,1998-10-23,2020-08-15,['Outfielder'],St.LouisCardinals
 Drew Carlton,/players/c/carltdr01.shtml,1995-09-08,2021-09-04,['Pitcher'],SanDiegoPadres
 Kerry Carpenter,/players/c/carpeke01.shtml,1997-09-02,2022-08-10,"['Rightfielder', 'DesignatedHitter']",DetroitTigers
-Matt Carpenter,/players/c/carpema01.shtml,1985-11-26,2011-06-04,"['ThirdBaseman,FirstBaseman', 'SecondBaseman']",St.LouisCardinals
+Matt Carpenter,/players/c/carpema01.shtml,1985-11-26,2011-06-04,"['ThirdBaseman', 'FirstBaseman', 'SecondBaseman']",St.LouisCardinals
 Ryan Carpenter,/players/c/carpery01.shtml,1990-08-22,2018-04-01,['Pitcher'],SanDiegoPadres
 Carlos Carrasco,/players/c/carraca01.shtml,1987-03-21,2009-09-01,['Pitcher'],ClevelandGuardians
 Corbin Carroll,/players/c/carroco02.shtml,2000-08-21,2022-08-29,['Outfielder'],ArizonaDiamondbacks
@@ -246,14 +246,14 @@ Triston Casas,/players/c/casastr01.shtml,2000-01-15,2022-09-04,['FirstBaseman'],
 Humberto Castellanos,/players/c/castehu01.shtml,1998-04-03,2020-08-04,['Pitcher'],ArizonaDiamondbacks
 Nick Castellanos,/players/c/casteni01.shtml,1992-03-04,2013-09-01,"['Rightfielder', 'ThirdBaseman']",PhiladelphiaPhillies
 Diego Castillo,/players/c/castidi01.shtml,1994-01-18,2018-06-06,['Pitcher'],MinnesotaTwins
-Diego Castillo,/players/c/castidi02.shtml,1997-10-28,2022-04-07,"['Shortstop,SecondBaseman', 'Rightfielder']",MinnesotaTwins
+Diego Castillo,/players/c/castidi02.shtml,1997-10-28,2022-04-07,"['Shortstop', 'SecondBaseman', 'Rightfielder']",MinnesotaTwins
 José Castillo,/players/c/castijo03.shtml,1996-01-10,2018-06-02,['Pitcher'],ArizonaDiamondbacks
 Luis Castillo,/players/c/castilu02.shtml,1992-12-12,2017-06-23,['Pitcher'],SeattleMariners
 Max Castillo,/players/c/castima03.shtml,1999-05-04,2022-06-19,['Pitcher'],PhiladelphiaPhillies
 Kervin Castro,/players/c/castrke01.shtml,1999-02-07,2021-09-07,['Pitcher'],NewYorkYankees
 Miguel Castro,/players/c/castrmi01.shtml,1994-12-24,2015-04-06,['Pitcher'],ArizonaDiamondbacks
-Rodolfo Castro,/players/c/castrro01.shtml,1999-05-21,2021-04-21,"['SecondBaseman,Shortstop', 'ThirdBaseman']",PhiladelphiaPhillies
-Willi Castro,/players/c/castrwi01.shtml,1997-04-24,2019-08-24,"['Outfielder,SecondBaseman', 'Shortstop']",MinnesotaTwins
+Rodolfo Castro,/players/c/castrro01.shtml,1999-05-21,2021-04-21,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",PhiladelphiaPhillies
+Willi Castro,/players/c/castrwi01.shtml,1997-04-24,2019-08-24,"['Outfielder', 'SecondBaseman', 'Shortstop']",MinnesotaTwins
 Cade Cavalli,/players/c/cavalca01.shtml,1998-08-14,2022-08-26,['Pitcher'],WashingtonNationals
 Jake Cave,/players/c/caveja01.shtml,1992-12-04,2018-05-19,"['Outfielder', 'FirstBaseman']",ColoradoRockies
 Dylan Cease,/players/c/ceasedy01.shtml,1995-12-28,2019-07-03,['Pitcher'],SanDiegoPadres
@@ -261,15 +261,15 @@ Slade Cecconi,/players/c/ceccosl01.shtml,1999-06-24,2023-08-02,['Pitcher'],Arizo
 Gilberto Celestino,/players/c/celesgi01.shtml,1999-02-13,2021-06-02,['Centerfielder'],PittsburghPirates
 Luis Cessa,/players/c/cessalu01.shtml,1992-04-25,2016-04-08,['Pitcher'],KansasCityRoyals
 Andrew Chafin,/players/c/chafian01.shtml,1990-06-17,2014-08-13,['Pitcher'],DetroitTigers
-Yu Chang,/players/c/changyu01.shtml,1995-08-18,2019-06-28,"['Shortstop,FirstBaseman', 'SecondBaseman']",TampaBayRays
+Yu Chang,/players/c/changyu01.shtml,1995-08-18,2019-06-28,"['Shortstop', 'FirstBaseman', 'SecondBaseman']",TampaBayRays
 Aroldis Chapman,/players/c/chapmar01.shtml,1988-02-28,2010-08-31,['Pitcher'],PittsburghPirates
 Matt Chapman,/players/c/chapmma01.shtml,1993-04-28,2017-06-15,['ThirdBaseman'],SanFranciscoGiants
 JT Chargois,/players/c/chargjt01.shtml,1990-12-03,2016-06-11,['Pitcher'],MiamiMarlins
 Tyler Chatwood,/players/c/chatwty01.shtml,1989-12-16,2011-04-11,['Pitcher'],ArizonaDiamondbacks
 Jesse Chavez,/players/c/chaveje01.shtml,1983-08-21,2008-08-27,['Pitcher'],AtlantaBraves
-Michael Chavis,/players/c/chavimi01.shtml,1995-08-11,2019-04-20,"['FirstBaseman,SecondBaseman', 'ThirdBaseman']",SeattleMariners
+Michael Chavis,/players/c/chavimi01.shtml,1995-08-11,2019-04-20,"['FirstBaseman', 'SecondBaseman', 'ThirdBaseman']",SeattleMariners
 Yonny Chirinos,/players/c/chiriyo01.shtml,1993-12-26,2018-04-01,['Pitcher'],MiamiMarlins
-Jazz Chisholm Jr.,/players/c/chishja01.shtml,1998-02-01,2020-09-01,"['SecondBaseman,Centerfielder', 'Shortstop']",MiamiMarlins
+Jazz Chisholm Jr.,/players/c/chishja01.shtml,1998-02-01,2020-09-01,"['SecondBaseman', 'Centerfielder', 'Shortstop']",MiamiMarlins
 Jiman Choi,/players/c/choiji01.shtml,1991-05-19,2016-04-05,"['FirstBaseman', 'Leftfielder']",NewYorkMets
 Jackson Chourio,/players/c/chourja01.shtml,2004-03-11,,['Rightfielder'],MilwaukeeBrewers
 Adam Cimber,/players/c/cimbead01.shtml,1990-08-15,2018-03-29,['Pitcher'],LosAngelesAngels
@@ -279,8 +279,8 @@ Taylor Clarke,/players/c/clarkta01.shtml,1993-05-13,2019-04-20,['Pitcher'],Milwa
 Emmanuel Clase,/players/c/claseem01.shtml,1998-03-18,2019-08-04,['Pitcher'],ClevelandGuardians
 Alex Claudio,/players/c/claudal01.shtml,1992-01-31,2014-08-13,['Pitcher'],
 Garrett Cleavinger,/players/c/cleavga01.shtml,1994-04-23,2020-09-17,['Pitcher'],TampaBayRays
-Kody Clemens,/players/c/clemeko01.shtml,1996-05-15,2022-05-31,"['FirstBaseman,ThirdBaseman', 'Pitcher']",PhiladelphiaPhillies
-Ernie Clement,/players/c/clemeer01.shtml,1996-03-22,2021-06-13,"['ThirdBaseman,SecondBaseman', 'Shortstop']",TorontoBlueJays
+Kody Clemens,/players/c/clemeko01.shtml,1996-05-15,2022-05-31,"['FirstBaseman', 'ThirdBaseman', 'Pitcher']",PhiladelphiaPhillies
+Ernie Clement,/players/c/clemeer01.shtml,1996-03-22,2021-06-13,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",TorontoBlueJays
 Mike Clevinger,/players/c/clevimi01.shtml,1990-12-21,2016-05-18,['Pitcher'],ChicagoWhiteSox
 Alex Cobb,/players/c/cobbal01.shtml,1987-10-07,2011-05-01,['Pitcher'],SanFranciscoGiants
 Oscar Colás,/players/c/colasos01.shtml,1998-09-17,2023-03-30,['Rightfielder'],ChicagoWhiteSox
@@ -308,7 +308,7 @@ Kyle Crick,/players/c/crickky01.shtml,1992-11-30,2017-06-22,['Pitcher'],NewYorkM
 Nabil Crismatt,/players/c/crismna01.shtml,1994-12-25,2020-08-17,['Pitcher'],LosAngelesDodgers
 Cooper Criswell,/players/c/criswco01.shtml,1996-07-24,2021-08-27,['Pitcher'],BostonRedSox
 Garrett Crochet,/players/c/crochga01.shtml,1999-06-21,2020-09-18,['Pitcher'],ChicagoWhiteSox
-Jake Cronenworth,/players/c/croneja01.shtml,1994-01-21,2020-07-26,"['SecondBaseman,FirstBaseman', 'Shortstop']",SanDiegoPadres
+Jake Cronenworth,/players/c/croneja01.shtml,1994-01-21,2020-07-26,"['SecondBaseman', 'FirstBaseman', 'Shortstop']",SanDiegoPadres
 Declan Cronin,/players/c/cronide01.shtml,1997-09-24,2023-07-30,['Pitcher'],MiamiMarlins
 Hans Crouse,/players/c/crousha01.shtml,1998-09-15,2021-09-26,['Pitcher'],LosAngelesAngels
 Pete Crow-Armstrong,/players/c/crowape01.shtml,2002-03-25,2023-09-11,"['Centerfielder', 'PinchRunner']",ChicagoCubs
@@ -330,7 +330,7 @@ Zach Davies,/players/d/davieza02.shtml,1993-02-07,2015-09-02,['Pitcher'],
 Austin Davis,/players/d/davisau01.shtml,1993-02-03,2018-06-20,['Pitcher'],SanDiegoPadres
 Brendon Davis,/players/d/davisbr04.shtml,1997-07-28,2022-10-01,"['Rightfielder', 'ThirdBaseman']",LosAngelesDodgers
 Henry Davis,/players/d/davishe01.shtml,1999-09-21,2023-06-19,"['Rightfielder', 'Catcher']",PittsburghPirates
-J.D. Davis,/players/d/davisjd01.shtml,1993-04-27,2017-08-05,"['ThirdBaseman,Leftfielder', 'FirstBaseman']",OaklandAthletics
+J.D. Davis,/players/d/davisjd01.shtml,1993-04-27,2017-08-05,"['ThirdBaseman', 'Leftfielder', 'FirstBaseman']",OaklandAthletics
 Jonathan Davis,/players/d/davisjo05.shtml,1992-05-12,2018-09-05,['Centerfielder'],MiamiMarlins
 Noah Davis,/players/d/davisno01.shtml,1997-04-22,2022-10-05,['Pitcher'],ColoradoRockies
 Brett de Geus,/players/d/degeubr01.shtml,1997-11-04,2021-04-01,['Pitcher'],SeattleMariners
@@ -346,71 +346,71 @@ Jonny DeLuca,/players/d/delucjo01.shtml,1998-07-10,2023-06-07,"['Outfielder', 'P
 Anthony DeSclafani,/players/d/desclan01.shtml,1990-04-18,2014-05-14,['Pitcher'],MinnesotaTwins
 Reid Detmers,/players/d/detmere01.shtml,1999-07-08,2021-08-01,['Pitcher'],LosAngelesAngels
 Chris Devenski,/players/d/devench02.shtml,1990-11-13,2016-04-08,['Pitcher'],TampaBayRays
-José Devers,/players/d/deverjo01.shtml,1999-12-07,2021-04-24,"['SecondBaseman,PinchHitter', 'Shortstop']",MiamiMarlins
+José Devers,/players/d/deverjo01.shtml,1999-12-07,2021-04-24,"['SecondBaseman', 'PinchHitter', 'Shortstop']",MiamiMarlins
 Rafael Devers,/players/d/deverra01.shtml,1996-10-24,2017-07-25,['ThirdBaseman'],BostonRedSox
-Aledmys Díaz,/players/d/diazal02.shtml,1990-08-01,2016-04-05,"['Shortstop,ThirdBaseman', 'SecondBaseman']",OaklandAthletics
+Aledmys Díaz,/players/d/diazal02.shtml,1990-08-01,2016-04-05,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",OaklandAthletics
 Alexis Díaz,/players/d/diazal03.shtml,1996-09-28,2022-04-08,['Pitcher'],CincinnatiReds
 Edwin Díaz,/players/d/diazed04.shtml,1994-03-22,2016-06-06,['Pitcher'],NewYorkMets
 Elias Díaz,/players/d/diazel01.shtml,1990-11-17,2015-09-12,['Catcher'],ColoradoRockies
 Jhonathan Díaz,/players/d/diazjh01.shtml,1996-09-13,2021-09-17,['Pitcher'],SeattleMariners
-Jordan Diaz,/players/d/diazjo03.shtml,2000-08-13,2022-09-18,"['SecondBaseman,ThirdBaseman', 'FirstBaseman']",OaklandAthletics
+Jordan Diaz,/players/d/diazjo03.shtml,2000-08-13,2022-09-18,"['SecondBaseman', 'ThirdBaseman', 'FirstBaseman']",OaklandAthletics
 Miguel Díaz,/players/d/diazmi02.shtml,1994-11-28,2017-04-03,['Pitcher'],HoustonAstros
-Yainer Diaz,/players/d/diazya02.shtml,1998-09-21,2022-09-02,"['Catcher,DesignatedHitter', 'FirstBaseman']",HoustonAstros
+Yainer Diaz,/players/d/diazya02.shtml,1998-09-21,2022-09-02,"['Catcher', 'DesignatedHitter', 'FirstBaseman']",HoustonAstros
 Yandy Díaz,/players/d/diazya01.shtml,1991-08-08,2017-04-03,"['ThirdBaseman', 'FirstBaseman']",TampaBayRays
 Yusniel Diaz,/players/d/diazyu01.shtml,1996-10-07,2022-08-02,"['PinchHitter', 'Rightfielder']",SanFranciscoGiants
 Jake Diekman,/players/d/diekmja01.shtml,1987-01-21,2012-05-15,['Pitcher'],NewYorkMets
-Wilmer Difo,/players/d/difowi01.shtml,1992-04-02,2015-05-19,"['SecondBaseman,PinchHitter', 'Shortstop']",ChicagoWhiteSox
+Wilmer Difo,/players/d/difowi01.shtml,1992-04-02,2015-05-19,"['SecondBaseman', 'PinchHitter', 'Shortstop']",ChicagoWhiteSox
 Randy Dobnak,/players/d/dobnara01.shtml,1995-01-17,2019-08-09,['Pitcher'],MinnesotaTwins
 Dylan Dodd,/players/d/dodddy01.shtml,1998-06-06,2023-04-04,['Pitcher'],AtlantaBraves
 Jasson Domínguez,/players/d/dominja01.shtml,2003-02-07,2023-09-01,['Centerfielder'],NewYorkYankees
 Seranthony Domínguez,/players/d/dominse01.shtml,1994-11-25,2018-05-07,['Pitcher'],PhiladelphiaPhillies
-Brendan Donovan,/players/d/donovbr01.shtml,1997-01-16,2022-04-25,"['Outfielder,SecondBaseman', 'ThirdBaseman']",St.LouisCardinals
+Brendan Donovan,/players/d/donovbr01.shtml,1997-01-16,2022-04-25,"['Outfielder', 'SecondBaseman', 'ThirdBaseman']",St.LouisCardinals
 Camilo Doval,/players/d/dovalca01.shtml,1997-07-04,2021-04-18,['Pitcher'],SanFranciscoGiants
-Jeter Downs,/players/d/downsje01.shtml,1998-07-27,2022-06-22,"['SecondBaseman,Shortstop', 'ThirdBaseman']",NewYorkYankees
+Jeter Downs,/players/d/downsje01.shtml,1998-07-27,2022-06-22,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",NewYorkYankees
 Brenton Doyle,/players/d/doylebr02.shtml,1998-05-14,2023-04-24,['Centerfielder'],ColoradoRockies
 Tommy Doyle,/players/d/doyleto01.shtml,1996-05-01,2020-09-23,['Pitcher'],AtlantaBraves
-Hunter Dozier,/players/d/doziehu01.shtml,1991-08-22,2016-09-12,"['ThirdBaseman,Rightfielder', 'FirstBaseman']",LosAngelesAngels
-Brandon Drury,/players/d/drurybr01.shtml,1992-08-21,2015-09-01,"['SecondBaseman,ThirdBaseman', 'Outfielder']",LosAngelesAngels
+Hunter Dozier,/players/d/doziehu01.shtml,1991-08-22,2016-09-12,"['ThirdBaseman', 'Rightfielder', 'FirstBaseman']",LosAngelesAngels
+Brandon Drury,/players/d/drurybr01.shtml,1992-08-21,2015-09-01,"['SecondBaseman', 'ThirdBaseman', 'Outfielder']",LosAngelesAngels
 Daniel Duarte,/players/d/duartda01.shtml,1996-12-04,2022-04-08,['Pitcher'],MinnesotaTwins
 Shawn Dubin,/players/d/dubinsh01.shtml,1995-09-06,2023-06-19,['Pitcher'],HoustonAstros
-Mauricio Dubón,/players/d/dubonma01.shtml,1994-07-19,2019-07-07,"['Centerfielder,SecondBaseman', 'Shortstop']",HoustonAstros
+Mauricio Dubón,/players/d/dubonma01.shtml,1994-07-19,2019-07-07,"['Centerfielder', 'SecondBaseman', 'Shortstop']",HoustonAstros
 Tyler Duffey,/players/d/duffety01.shtml,1990-12-27,2015-08-05,['Pitcher'],KansasCityRoyals
 Danny Duffy,/players/d/duffyda01.shtml,1988-12-21,2011-05-18,['Pitcher'],TexasRangers
-Matt Duffy,/players/d/duffyma01.shtml,1991-01-15,2014-08-01,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",TexasRangers
+Matt Duffy,/players/d/duffyma01.shtml,1991-01-15,2014-08-01,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",TexasRangers
 Oliver Dunn,/players/d/dunnol01.shtml,1997-09-02,,"['ThirdBaseman', 'DesignatedHitter']",MilwaukeeBrewers
 Dane Dunning,/players/d/dunnida01.shtml,1994-12-20,2020-08-19,['Pitcher'],TexasRangers
 Jon Duplantier,/players/d/duplajo01.shtml,1994-07-11,2019-04-01,['Pitcher'],NewYorkMets
-Ezequiel Duran,/players/d/duranez01.shtml,1999-05-22,2022-06-04,"['ThirdBaseman,Shortstop', 'Leftfielder']",TexasRangers
+Ezequiel Duran,/players/d/duranez01.shtml,1999-05-22,2022-06-04,"['ThirdBaseman', 'Shortstop', 'Leftfielder']",TexasRangers
 Jarren Duran,/players/d/duranja01.shtml,1996-09-05,2021-07-17,['Centerfielder'],BostonRedSox
 Jhoan Durán,/players/d/duranjh01.shtml,1998-01-08,2022-04-08,['Pitcher'],MinnesotaTwins
 Adam Duvall,/players/d/duvalad01.shtml,1988-09-04,2014-06-26,"['Leftfielder', 'FirstBaseman']",AtlantaBraves
 Nate Eaton,/players/e/eatonna01.shtml,1996-12-22,2022-07-14,"['Outfielder', 'ThirdBaseman']",KansasCityRoyals
-Cam Eden,/players/e/edenca01.shtml,1998-03-31,2023-09-21,"['PinchRunner,DesignatedHitter', 'Leftfielder']",TorontoBlueJays
-Tommy Edman,/players/e/edmanto01.shtml,1995-05-09,2019-06-08,"['SecondBaseman,Shortstop', 'Outfielder']",St.LouisCardinals
+Cam Eden,/players/e/edenca01.shtml,1998-03-31,2023-09-21,"['PinchRunner', 'DesignatedHitter', 'Leftfielder']",TorontoBlueJays
+Tommy Edman,/players/e/edmanto01.shtml,1995-05-09,2019-06-08,"['SecondBaseman', 'Shortstop', 'Outfielder']",St.LouisCardinals
 Carl Edwards Jr.,/players/e/edwarca01.shtml,1991-09-03,2015-09-07,['Pitcher'],ChicagoCubs
 Xavier Edwards,/players/e/edwarxa01.shtml,1999-08-09,2023-05-02,"['SecondBaseman', 'Centerfielder']",MiamiMarlins
 Scott Effross,/players/e/effrosc01.shtml,1993-12-28,2021-08-29,['Pitcher'],NewYorkYankees
 Zach Eflin,/players/e/eflinza01.shtml,1994-04-08,2016-06-14,['Pitcher'],TampaBayRays
 Bryce Elder,/players/e/elderbr01.shtml,1999-05-19,2022-04-12,['Pitcher'],AtlantaBraves
 Kent Emanuel,/players/e/emanuke01.shtml,1992-06-04,2021-04-24,['Pitcher'],MiamiMarlins
-Christian Encarnacion-Strand,/players/e/encarch01.shtml,1999-12-01,2023-07-17,"['FirstBaseman,DesignatedHitter', 'ThirdBaseman']",CincinnatiReds
+Christian Encarnacion-Strand,/players/e/encarch01.shtml,1999-12-01,2023-07-17,"['FirstBaseman', 'DesignatedHitter', 'ThirdBaseman']",CincinnatiReds
 Mason Englert,/players/e/englema01.shtml,1999-11-01,2023-03-30,['Pitcher'],DetroitTigers
 Nathan Eovaldi,/players/e/eovalna01.shtml,1990-02-13,2011-08-06,['Pitcher'],TexasRangers
 Lucas Erceg,/players/e/erceglu01.shtml,1995-05-01,2023-05-19,['Pitcher'],OaklandAthletics
 Edwin Escobar,/players/e/escobed02.shtml,1992-04-22,2014-08-27,['Pitcher'],ChicagoCubs
-Santiago Espinal,/players/e/espinsa01.shtml,1994-11-13,2020-07-25,"['SecondBaseman,ThirdBaseman', 'Shortstop']",CincinnatiReds
+Santiago Espinal,/players/e/espinsa01.shtml,1994-11-13,2020-07-25,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",CincinnatiReds
 Paolo Espino,/players/e/espinpa01.shtml,1987-01-10,2017-05-19,['Pitcher'],TorontoBlueJays
 Joey Estes,/players/e/estesjo01.shtml,2001-10-08,2023-09-20,['Pitcher'],OaklandAthletics
 Carlos Estévez,/players/e/estevca01.shtml,1992-12-28,2016-04-23,['Pitcher'],LosAngelesAngels
 Jeremiah Estrada,/players/e/estraje01.shtml,1998-11-01,2022-08-30,['Pitcher'],SanDiegoPadres
-Thairo Estrada,/players/e/estrath01.shtml,1996-02-22,2019-04-21,"['SecondBaseman,Shortstop', 'Leftfielder']",SanFranciscoGiants
-Phillip Evans,/players/e/evansph01.shtml,1992-09-10,2017-09-08,"['PinchHitter,Outfielder', 'ThirdBaseman']",AtlantaBraves
+Thairo Estrada,/players/e/estrath01.shtml,1996-02-22,2019-04-21,"['SecondBaseman', 'Shortstop', 'Leftfielder']",SanFranciscoGiants
+Phillip Evans,/players/e/evansph01.shtml,1992-09-10,2017-09-08,"['PinchHitter', 'Outfielder', 'ThirdBaseman']",AtlantaBraves
 Alex Faedo,/players/f/faedoal01.shtml,1995-11-12,2022-05-04,['Pitcher'],DetroitTigers
 Pete Fairbanks,/players/f/fairbpe01.shtml,1993-12-16,2019-06-09,['Pitcher'],TampaBayRays
 Stuart Fairchild,/players/f/faircst01.shtml,1996-03-17,2021-07-06,['Outfielder'],CincinnatiReds
 Bailey Falter,/players/f/falteba01.shtml,1997-04-24,2021-04-25,['Pitcher'],PittsburghPirates
 Buck Farmer,/players/f/farmebu01.shtml,1991-02-20,2014-08-13,['Pitcher'],CincinnatiReds
-Kyle Farmer,/players/f/farmeky01.shtml,1990-08-17,2017-07-30,"['Shortstop,ThirdBaseman', 'SecondBaseman']",MinnesotaTwins
+Kyle Farmer,/players/f/farmeky01.shtml,1990-08-17,2017-07-30,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",MinnesotaTwins
 Luke Farrell,/players/f/farrelu01.shtml,1991-06-07,2017-07-01,['Pitcher'],WashingtonNationals
 Calvin Faucher,/players/f/fauchca01.shtml,1995-09-22,2022-05-09,['Pitcher'],MiamiMarlins
 Erick Fedde,/players/f/feddeer01.shtml,1993-02-25,2017-07-30,['Pitcher'],ChicagoWhiteSox
@@ -425,13 +425,13 @@ Matt Festa,/players/f/festama01.shtml,1993-03-11,2018-07-14,['Pitcher'],SanDiego
 J.P. Feyereisen,/players/f/feyerjo01.shtml,1993-02-07,2020-07-24,['Pitcher'],LosAngelesDodgers
 Kyle Finnegan,/players/f/finneky01.shtml,1991-09-04,2020-07-25,['Pitcher'],WashingtonNationals
 Jake Fishman,/players/f/fishmja01.shtml,1995-02-08,2022-07-31,['Pitcher'],
-Tyler Fitzgerald,/players/f/fitzgty01.shtml,1997-09-15,2023-09-21,"['Centerfielder,ThirdBaseman', 'Shortstop']",SanFranciscoGiants
+Tyler Fitzgerald,/players/f/fitzgty01.shtml,1997-09-15,2023-09-21,"['Centerfielder', 'ThirdBaseman', 'Shortstop']",SanFranciscoGiants
 Jack Flaherty,/players/f/flaheja01.shtml,1995-10-15,2017-09-01,['Pitcher'],DetroitTigers
 Josh Fleming,/players/f/flemijo01.shtml,1996-05-18,2020-08-23,['Pitcher'],PittsburghPirates
-David Fletcher,/players/f/fletcda02.shtml,1994-05-31,2018-06-13,"['SecondBaseman,Shortstop', 'ThirdBaseman']",AtlantaBraves
+David Fletcher,/players/f/fletcda02.shtml,1994-05-31,2018-06-13,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",AtlantaBraves
 Dominic Fletcher,/players/f/fletcdo01.shtml,1997-09-02,2023-04-30,['Outfielder'],ChicagoWhiteSox
 Chris Flexen,/players/f/flexech01.shtml,1994-07-01,2017-07-27,['Pitcher'],ChicagoWhiteSox
-Wilmer Flores,/players/f/florewi01.shtml,1991-08-06,2013-08-06,"['FirstBaseman,SecondBaseman', 'ThirdBaseman']",SanFranciscoGiants
+Wilmer Flores,/players/f/florewi01.shtml,1991-08-06,2013-08-06,"['FirstBaseman', 'SecondBaseman', 'ThirdBaseman']",SanFranciscoGiants
 Estevan Florial,/players/f/flories01.shtml,1997-11-25,2020-08-28,['Centerfielder'],ClevelandGuardians
 Dylan Floro,/players/f/florody01.shtml,1990-12-27,2016-07-07,['Pitcher'],WashingtonNationals
 Jason Foley,/players/f/foleyja01.shtml,1995-11-01,2021-06-06,['Pitcher'],DetroitTigers
@@ -441,18 +441,18 @@ Justin Foscue,/players/f/foscuju01.shtml,1999-03-02,,"['PinchHitter', 'SecondBas
 Matt Foster,/players/f/fostema01.shtml,1995-01-27,2020-08-01,['Pitcher'],ChicagoWhiteSox
 Jake Fraley,/players/f/fraleja01.shtml,1995-05-25,2019-08-21,['Outfielder'],CincinnatiReds
 J.P. France,/players/f/francjp01.shtml,1995-04-04,2023-05-06,['Pitcher'],HoustonAstros
-Ty France,/players/f/francty01.shtml,1994-07-13,2019-04-26,"['FirstBaseman,SecondBaseman', 'ThirdBaseman']",SeattleMariners
+Ty France,/players/f/francty01.shtml,1994-07-13,2019-04-26,"['FirstBaseman', 'SecondBaseman', 'ThirdBaseman']",SeattleMariners
 Bowden Francis,/players/f/francbo01.shtml,1996-04-22,2022-04-27,['Pitcher'],TorontoBlueJays
 Wander Franco,/players/f/francwa01.shtml,2001-03-01,2021-06-22,['Shortstop'],TampaBayRays
 Adam Frazier,/players/f/fraziad01.shtml,1991-12-14,2016-06-24,"['SecondBaseman', 'Outfielder']",KansasCityRoyals
 Kyle Freeland,/players/f/freelky01.shtml,1993-05-14,2017-04-07,['Pitcher'],ColoradoRockies
 Freddie Freeman,/players/f/freemfr01.shtml,1989-09-12,2010-09-01,['FirstBaseman'],LosAngelesDodgers
-Tyler Freeman,/players/f/freemty01.shtml,1999-05-21,2022-08-03,"['ThirdBaseman,SecondBaseman', 'Shortstop']",ClevelandGuardians
+Tyler Freeman,/players/f/freemty01.shtml,1999-05-21,2022-08-03,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",ClevelandGuardians
 Sal Frelick,/players/f/frelisa01.shtml,2000-04-19,2023-07-22,['Outfielder'],MilwaukeeBrewers
 Luis Frías,/players/f/friaslu01.shtml,1998-05-23,2021-09-19,['Pitcher'],ArizonaDiamondbacks
 Max Fried,/players/f/friedma01.shtml,1994-01-18,2017-08-08,['Pitcher'],AtlantaBraves
 TJ Friedl,/players/f/friedtj01.shtml,1995-08-14,2021-09-18,['Centerfielder'],CincinnatiReds
-David Fry,/players/f/fryda01.shtml,1995-11-20,2023-05-01,"['Catcher,FirstBaseman', 'PinchHitter']",ClevelandGuardians
+David Fry,/players/f/fryda01.shtml,1995-11-20,2023-05-01,"['Catcher', 'FirstBaseman', 'PinchHitter']",ClevelandGuardians
 Paul Fry,/players/f/frypa01.shtml,1992-07-26,2018-06-29,['Pitcher'],SanDiegoPadres
 Shintaro Fujinami,/players/f/fujinsh01.shtml,1994-04-12,2023-04-01,['Pitcher'],NewYorkMets
 Carson Fulmer,/players/f/fulmeca01.shtml,1993-12-13,2016-07-17,['Pitcher'],LosAngelesAngels
@@ -462,14 +462,14 @@ Hunter Gaddis,/players/g/gaddihu01.shtml,1998-04-09,2022-08-05,['Pitcher'],Cleve
 Matt Gage,/players/g/gagema01.shtml,1993-02-11,2022-06-06,['Pitcher'],LosAngelesDodgers
 Giovanny Gallegos,/players/g/gallegi01.shtml,1991-08-14,2017-05-12,['Pitcher'],St.LouisCardinals
 Zac Gallen,/players/g/galleza01.shtml,1995-08-03,2019-06-20,['Pitcher'],ArizonaDiamondbacks
-Joey Gallo,/players/g/gallojo01.shtml,1993-11-19,2015-06-02,"['Outfielder,FirstBaseman', 'ThirdBaseman']",WashingtonNationals
+Joey Gallo,/players/g/gallojo01.shtml,1993-11-19,2015-06-02,"['Outfielder', 'FirstBaseman', 'ThirdBaseman']",WashingtonNationals
 Ben Gamel,/players/g/gamelbe01.shtml,1992-05-17,2016-05-06,['Outfielder'],NewYorkMets
 Adolis García,/players/g/garciad02.shtml,1993-03-02,2018-08-08,['Outfielder'],TexasRangers
 Aramis Garcia,/players/g/garciar01.shtml,1993-01-12,2018-08-31,"['Catcher', 'FirstBaseman']",PhiladelphiaPhillies
 Avisaíl García,/players/g/garciav01.shtml,1991-06-12,2012-08-31,['Rightfielder'],MiamiMarlins
 Deivi García,/players/g/garcide01.shtml,1999-05-19,2020-08-30,['Pitcher'],ChicagoWhiteSox
 Dérmis García,/players/g/garcide02.shtml,1998-01-07,2022-07-12,['FirstBaseman'],WashingtonNationals
-Leury García,/players/g/garcile02.shtml,1991-03-18,2013-04-06,"['Outfielder,SecondBaseman', 'Shortstop']",AtlantaBraves
+Leury García,/players/g/garcile02.shtml,1991-03-18,2013-04-06,"['Outfielder', 'SecondBaseman', 'Shortstop']",AtlantaBraves
 Luis García,/players/g/garcilu03.shtml,1987-01-30,2013-07-10,['Pitcher'],LosAngelesAngels
 Luis Garcia,/players/g/garcilu05.shtml,1996-12-13,2020-09-04,['Pitcher'],HoustonAstros
 Luis García Jr.,/players/g/garcilu04.shtml,2000-05-16,2020-08-14,"['SecondBaseman', 'Shortstop']",WashingtonNationals
@@ -511,14 +511,14 @@ Stephen Gonsalves,/players/g/gonsast01.shtml,1994-07-08,2018-08-20,['Pitcher'],L
 Tony Gonsolin,/players/g/gonsoto01.shtml,1994-05-14,2019-06-26,['Pitcher'],LosAngelesDodgers
 Marco Gonzales,/players/g/gonzama02.shtml,1992-02-16,2014-06-25,['Pitcher'],PittsburghPirates
 Nick Gonzales,/players/g/gonzani01.shtml,1999-05-27,2023-06-23,"['SecondBaseman', 'Shortstop']",PittsburghPirates
-Erik González,/players/g/gonzaer01.shtml,1991-08-31,2016-07-16,"['Shortstop,ThirdBaseman', 'SecondBaseman']",CincinnatiReds
+Erik González,/players/g/gonzaer01.shtml,1991-08-31,2016-07-16,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",CincinnatiReds
 Luis González,/players/g/gonzalu03.shtml,1995-09-10,2020-08-18,"['Rightfielder', 'Pitcher']",NewYorkYankees
 Oscar González,/players/g/gonzaos01.shtml,1998-01-10,2022-05-26,['Rightfielder'],NewYorkYankees
-Romy Gonzalez,/players/g/gonzaro01.shtml,1996-09-06,2021-09-03,"['SecondBaseman,Outfielder', 'Shortstop']",BostonRedSox
+Romy Gonzalez,/players/g/gonzaro01.shtml,1996-09-06,2021-09-03,"['SecondBaseman', 'Outfielder', 'Shortstop']",BostonRedSox
 Victor González,/players/g/gonzavi02.shtml,1995-11-16,2020-07-31,['Pitcher'],NewYorkYankees
 Hunter Goodman,/players/g/goodmhu01.shtml,1999-10-08,2023-08-27,"['Rightfielder', 'FirstBaseman']",ColoradoRockies
-Niko Goodrum,/players/g/goodrni01.shtml,1992-02-28,2017-09-02,"['Shortstop,SecondBaseman', 'Outfielder']",TampaBayRays
-Nick Gordon,/players/g/gordoni01.shtml,1995-10-24,2021-05-06,"['Outfielder,SecondBaseman', 'Shortstop']",MiamiMarlins
+Niko Goodrum,/players/g/goodrni01.shtml,1992-02-28,2017-09-02,"['Shortstop', 'SecondBaseman', 'Outfielder']",TampaBayRays
+Nick Gordon,/players/g/gordoni01.shtml,1995-10-24,2021-05-06,"['Outfielder', 'SecondBaseman', 'Shortstop']",MiamiMarlins
 MacKenzie Gore,/players/g/gorema01.shtml,1999-02-24,2022-04-15,['Pitcher'],WashingtonNationals
 Nolan Gorman,/players/g/gormano01.shtml,2000-05-10,2022-05-20,"['SecondBaseman', 'ThirdBaseman']",St.LouisCardinals
 Anthony Gose,/players/g/gosean01.shtml,1990-08-10,2012-07-17,"['Centerfielder', 'Pitcher']",ClevelandGuardians
@@ -545,8 +545,8 @@ Robert Gsellman,/players/g/gsellro01.shtml,1993-07-18,2016-08-23,['Pitcher'],Was
 Sean Guenther,/players/g/guentse01.shtml,1995-12-29,2021-08-04,['Pitcher'],DetroitTigers
 Tayron Guerrero,/players/g/guerrta01.shtml,1991-01-09,2016-05-17,['Pitcher'],LosAngelesAngels
 Vladimir Guerrero Jr.,/players/g/guerrvl02.shtml,1999-03-16,2019-04-26,"['FirstBaseman', 'ThirdBaseman']",TorontoBlueJays
-Luis Guillorme,/players/g/guilllu01.shtml,1994-09-27,2018-05-11,"['SecondBaseman,ThirdBaseman', 'Shortstop']",AtlantaBraves
-Lourdes Gurriel Jr.,/players/g/gurrilo01.shtml,1993-10-10,2018-04-20,"['Leftfielder,Shortstop', 'SecondBaseman']",ArizonaDiamondbacks
+Luis Guillorme,/players/g/guilllu01.shtml,1994-09-27,2018-05-11,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",AtlantaBraves
+Lourdes Gurriel Jr.,/players/g/gurrilo01.shtml,1993-10-10,2018-04-20,"['Leftfielder', 'Shortstop', 'SecondBaseman']",ArizonaDiamondbacks
 Dalton Guthrie,/players/g/guthrda01.shtml,1995-12-23,2022-09-06,"['Outfielder', 'ThirdBaseman']",BostonRedSox
 Vladimir Gutierrez,/players/g/gutievl01.shtml,1995-09-18,2021-05-28,['Pitcher'],MilwaukeeBrewers
 Ronald Guzmán,/players/g/guzmaro01.shtml,1994-10-20,2018-04-13,['FirstBaseman'],
@@ -559,11 +559,11 @@ DL Hall,/players/h/halldl01.shtml,1998-09-19,2022-08-13,['Pitcher'],MilwaukeeBre
 Caleb Hamilton,/players/h/hamilca01.shtml,1995-02-05,2022-07-17,"['Catcher', 'FirstBaseman']",LosAngelesAngels
 David Hamilton,/players/h/hamilda03.shtml,1997-09-29,2023-06-21,"['Shortstop', 'SecondBaseman']",BostonRedSox
 Ian Hamilton,/players/h/hamilia01.shtml,1995-06-16,2018-08-31,['Pitcher'],NewYorkYankees
-Garrett Hampson,/players/h/hampsga01.shtml,1994-10-10,2018-07-21,"['Centerfielder,SecondBaseman', 'Shortstop']",KansasCityRoyals
+Garrett Hampson,/players/h/hampsga01.shtml,1994-10-10,2018-07-21,"['Centerfielder', 'SecondBaseman', 'Shortstop']",KansasCityRoyals
 Emerson Hancock,/players/h/hancoem01.shtml,1999-05-31,2023-08-09,['Pitcher'],SeattleMariners
 Brenan Hanifee,/players/h/hanifbr01.shtml,1998-05-29,2023-09-21,['Pitcher'],DetroitTigers
 Mitch Haniger,/players/h/hanigmi01.shtml,1990-12-23,2016-08-16,['Rightfielder'],SeattleMariners
-Ian Happ,/players/h/happia01.shtml,1994-08-12,2017-05-13,"['Leftfielder,SecondBaseman', 'ThirdBaseman']",ChicagoCubs
+Ian Happ,/players/h/happia01.shtml,1994-08-12,2017-05-13,"['Leftfielder', 'SecondBaseman', 'ThirdBaseman']",ChicagoCubs
 Bryce Harper,/players/h/harpebr03.shtml,1992-10-16,2012-04-28,['Rightfielder'],PhiladelphiaPhillies
 Hobie Harris,/players/h/harriho02.shtml,1993-06-23,2023-04-01,['Pitcher'],MinnesotaTwins
 Hogan Harris,/players/h/harriho03.shtml,1996-12-26,2023-04-14,['Pitcher'],OaklandAthletics
@@ -590,21 +590,21 @@ Blair Henley,/players/h/henlebl01.shtml,1997-05-14,,['Pitcher'],HoustonAstros
 Ronny Henriquez,/players/h/henriro01.shtml,2000-06-20,2022-09-19,['Pitcher'],MinnesotaTwins
 Payton Henry,/players/h/henrypa01.shtml,1997-06-24,2021-09-17,['Catcher'],TorontoBlueJays
 Tommy Henry,/players/h/henryto01.shtml,1997-07-29,2022-08-03,['Pitcher'],ArizonaDiamondbacks
-David Hensley,/players/h/henslda01.shtml,1996-03-28,2022-08-27,"['DesignatedHitter,SecondBaseman', 'FirstBaseman']",HoustonAstros
+David Hensley,/players/h/henslda01.shtml,1996-03-28,2022-08-27,"['DesignatedHitter', 'SecondBaseman', 'FirstBaseman']",HoustonAstros
 Sam Hentges,/players/h/hentgsa01.shtml,1996-07-18,2021-04-20,['Pitcher'],ClevelandGuardians
 Jimmy Herget,/players/h/hergeji01.shtml,1993-09-09,2019-07-07,['Pitcher'],LosAngelesAngels
 Kevin Herget,/players/h/hergeke01.shtml,1991-04-03,2022-09-13,['Pitcher'],MilwaukeeBrewers
 Darell Hernaiz,/players/h/hernada04.shtml,2001-08-03,,"['ThirdBaseman', 'Shortstop']",OaklandAthletics
 Carlos Hernández,/players/h/hernaca04.shtml,1997-03-11,2020-09-01,['Pitcher'],KansasCityRoyals
 Daysbel Hernández,/players/h/hernada03.shtml,1996-09-15,2023-07-23,['Pitcher'],AtlantaBraves
-Elier Hernandez,/players/h/hernael02.shtml,1994-11-21,2022-07-14,"['Leftfielder,DesignatedHitter', 'FirstBaseman']",TexasRangers
+Elier Hernandez,/players/h/hernael02.shtml,1994-11-21,2022-07-14,"['Leftfielder', 'DesignatedHitter', 'FirstBaseman']",TexasRangers
 Elieser Hernández,/players/h/hernael01.shtml,1995-05-03,2018-05-10,['Pitcher'],LosAngelesDodgers
-Enrique Hernández,/players/h/hernaen02.shtml,1991-08-24,2014-07-01,"['Outfielder,SecondBaseman', 'Shortstop']",LosAngelesDodgers
+Enrique Hernández,/players/h/hernaen02.shtml,1991-08-24,2014-07-01,"['Outfielder', 'SecondBaseman', 'Shortstop']",LosAngelesDodgers
 Jonathan Hernández,/players/h/hernajo02.shtml,1996-07-06,2019-08-21,['Pitcher'],TexasRangers
 Jose Hernandez,/players/h/hernajo03.shtml,1997-12-31,2023-04-01,['Pitcher'],PittsburghPirates
 Nick Hernandez,/players/h/hernani01.shtml,1994-12-30,2023-09-12,['Pitcher'],SanDiegoPadres
 Teoscar Hernández,/players/h/hernate01.shtml,1992-10-15,2016-08-12,['Outfielder'],LosAngelesDodgers
-Yonny Hernández,/players/h/hernayo02.shtml,1998-05-04,2021-08-05,"['ThirdBaseman,SecondBaseman', 'Shortstop']",MilwaukeeBrewers
+Yonny Hernández,/players/h/hernayo02.shtml,1998-05-04,2021-08-05,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",MilwaukeeBrewers
 Iván Herrera,/players/h/herreiv01.shtml,2000-06-01,2022-05-24,['Catcher'],St.LouisCardinals
 José Herrera,/players/h/herrejo04.shtml,1997-02-24,2022-04-09,['Catcher'],ArizonaDiamondbacks
 Tim Herrin,/players/h/herriti01.shtml,1996-10-08,2023-04-02,['Pitcher'],ClevelandGuardians
@@ -614,7 +614,7 @@ Brewer Hicklen,/players/h/hicklbr01.shtml,1996-02-09,2022-05-26,"['Outfielder', 
 Aaron Hicks,/players/h/hicksaa01.shtml,1989-10-02,2013-04-01,['Centerfielder'],LosAngelesAngels
 Jordan Hicks,/players/h/hicksjo03.shtml,1996-09-06,2018-03-29,['Pitcher'],SanFranciscoGiants
 Kyle Higashioka,/players/h/higasky01.shtml,1990-04-20,2017-04-10,['Catcher'],SanDiegoPadres
-P.J. Higgins,/players/h/higgipj01.shtml,1993-05-10,2021-05-19,"['Catcher,FirstBaseman', 'ThirdBaseman']",CincinnatiReds
+P.J. Higgins,/players/h/higgipj01.shtml,1993-05-10,2021-05-19,"['Catcher', 'FirstBaseman', 'ThirdBaseman']",CincinnatiReds
 Derek Hill,/players/h/hillde01.shtml,1995-12-30,2020-09-04,['Centerfielder'],TexasRangers
 Garrett Hill,/players/h/hillga02.shtml,1996-01-16,2022-07-04,['Pitcher'],DetroitTigers
 Tim Hill,/players/h/hillti01.shtml,1990-02-10,2018-03-29,['Pitcher'],ChicagoWhiteSox
@@ -631,8 +631,8 @@ Gavin Hollowell,/players/h/holloga01.shtml,1997-11-04,2022-09-19,['Pitcher'],Col
 Clay Holmes,/players/h/holmecl01.shtml,1993-03-27,2018-04-06,['Pitcher'],NewYorkYankees
 Tyler Holton,/players/h/holtoty01.shtml,1996-06-13,2022-04-28,['Pitcher'],DetroitTigers
 Brent Honeywell Jr.,/players/h/honeybr01.shtml,1995-03-31,2021-04-11,['Pitcher'],PittsburghPirates
-TJ Hopkins,/players/h/hopkitj01.shtml,1997-01-16,2023-06-03,"['Outfielder,PinchRunner', 'DesignatedHitter']",DetroitTigers
-Spencer Horwitz,/players/h/horwisp01.shtml,1997-11-14,2023-06-18,"['DesignatedHitter,PinchHitter', 'FirstBaseman']",TorontoBlueJays
+TJ Hopkins,/players/h/hopkitj01.shtml,1997-01-16,2023-06-03,"['Outfielder', 'PinchRunner', 'DesignatedHitter']",DetroitTigers
+Spencer Horwitz,/players/h/horwisp01.shtml,1997-11-14,2023-06-18,"['DesignatedHitter', 'PinchHitter', 'FirstBaseman']",TorontoBlueJays
 Rhys Hoskins,/players/h/hoskirh01.shtml,1993-03-17,2017-08-10,"['FirstBaseman', 'Leftfielder']",MilwaukeeBrewers
 Tanner Houck,/players/h/houckta01.shtml,1996-06-29,2020-09-15,['Pitcher'],BostonRedSox
 Adrian Houser,/players/h/housead01.shtml,1993-02-02,2015-09-26,['Pitcher'],NewYorkMets
@@ -644,9 +644,9 @@ Daniel Hudson,/players/h/hudsoda01.shtml,1987-03-09,2009-09-04,['Pitcher'],LosAn
 Joe Hudson,/players/h/hudsojo03.shtml,1991-05-21,2018-09-08,['Catcher'],NewYorkMets
 Sam Huff,/players/h/huffsa01.shtml,1998-01-14,2020-09-11,"['Catcher', 'FirstBaseman']",TexasRangers
 Brandon Hughes,/players/h/hughebr01.shtml,1995-12-01,2022-05-17,['Pitcher'],ArizonaDiamondbacks
-Cooper Hummel,/players/h/hummeco01.shtml,1994-11-28,2022-04-07,"['DesignatedHitter,Leftfielder', 'PinchHitter']",HoustonAstros
+Cooper Hummel,/players/h/hummeco01.shtml,1994-11-28,2022-04-07,"['DesignatedHitter', 'Leftfielder', 'PinchHitter']",HoustonAstros
 Kyle Hurt,/players/h/hurtky01.shtml,1998-05-30,2023-09-12,['Pitcher'],LosAngelesDodgers
-Andy Ibáñez,/players/i/ibanean01.shtml,1993-04-03,2021-05-04,"['SecondBaseman,ThirdBaseman', 'Outfielder']",DetroitTigers
+Andy Ibáñez,/players/i/ibanean01.shtml,1993-04-03,2021-05-04,"['SecondBaseman', 'ThirdBaseman', 'Outfielder']",DetroitTigers
 Jose Iglesias,/players/i/iglesjo01.shtml,1990-01-05,2011-05-08,['Shortstop'],NewYorkMets
 Raisel Iglesias,/players/i/iglesra01.shtml,1990-01-04,2015-04-12,['Pitcher'],AtlantaBraves
 Shota Imanaga,/players/i/imanash01.shtml,1993-09-01,,['Pitcher'],ChicagoCubs
@@ -713,24 +713,24 @@ Max Kepler,/players/k/keplema01.shtml,1993-02-10,2015-09-27,['Rightfielder'],Min
 Orion Kerkering,/players/k/kerkeor01.shtml,2001-04-04,2023-09-24,['Pitcher'],PhiladelphiaPhillies
 Ray Kerr,/players/k/kerrra01.shtml,1994-09-10,2022-04-24,['Pitcher'],AtlantaBraves
 Clayton Kershaw,/players/k/kershcl01.shtml,1988-03-19,2008-05-25,['Pitcher'],LosAngelesDodgers
-Grae Kessinger,/players/k/kessigr01.shtml,1997-08-25,2023-06-07,"['ThirdBaseman,Shortstop', 'SecondBaseman']",HoustonAstros
+Grae Kessinger,/players/k/kessigr01.shtml,1997-08-25,2023-06-07,"['ThirdBaseman', 'Shortstop', 'SecondBaseman']",HoustonAstros
 Dallas Keuchel,/players/k/keuchda01.shtml,1988-01-01,2012-06-17,['Pitcher'],SeattleMariners
 Carter Kieboom,/players/k/kieboca01.shtml,1997-09-03,2019-04-26,"['ThirdBaseman', 'Shortstop']",WashingtonNationals
 Kevin Kiermaier,/players/k/kiermke01.shtml,1990-04-22,2013-09-30,['Centerfielder'],TorontoBlueJays
 Yusei Kikuchi,/players/k/kikucyu01.shtml,1991-06-17,2019-03-21,['Pitcher'],TorontoBlueJays
 Caleb Kilian,/players/k/kiliaca01.shtml,1997-06-02,2022-06-04,['Pitcher'],ChicagoCubs
-Ha-Seong Kim,/players/k/kimha01.shtml,1995-10-17,2021-04-01,"['Shortstop,SecondBaseman', 'ThirdBaseman']",SanDiegoPadres
+Ha-Seong Kim,/players/k/kimha01.shtml,1995-10-17,2021-04-01,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",SanDiegoPadres
 Craig Kimbrel,/players/k/kimbrcr01.shtml,1988-05-28,2010-05-07,['Pitcher'],BaltimoreOrioles
-Isiah Kiner-Falefa,/players/k/kineris01.shtml,1995-03-23,2018-04-10,"['Shortstop,ThirdBaseman', 'Outfielder']",TorontoBlueJays
+Isiah Kiner-Falefa,/players/k/kineris01.shtml,1995-03-23,2018-04-10,"['Shortstop', 'ThirdBaseman', 'Outfielder']",TorontoBlueJays
 John King,/players/k/kingjo01.shtml,1994-09-14,2020-09-04,['Pitcher'],St.LouisCardinals
 Michael King,/players/k/kingmi01.shtml,1995-05-25,2019-09-27,['Pitcher'],SanDiegoPadres
-Scott Kingery,/players/k/kingesc01.shtml,1994-04-29,2018-03-30,"['Shortstop,Centerfielder', 'ThirdBaseman']",PhiladelphiaPhillies
+Scott Kingery,/players/k/kingesc01.shtml,1994-04-29,2018-03-30,"['Shortstop', 'Centerfielder', 'ThirdBaseman']",PhiladelphiaPhillies
 Tyler Kinley,/players/k/kinlety01.shtml,1991-01-31,2018-04-07,['Pitcher'],ColoradoRockies
 George Kirby,/players/k/kirbyge01.shtml,1998-02-04,2022-05-08,['Pitcher'],SeattleMariners
 Alex Kirilloff,/players/k/kirilal01.shtml,1997-11-09,2020-09-30,"['FirstBaseman', 'Outfielder']",MinnesotaTwins
 Alejandro Kirk,/players/k/kirkal01.shtml,1998-11-06,2020-09-12,['Catcher'],TorontoBlueJays
 Andrew Kittredge,/players/k/kittran01.shtml,1990-03-17,2017-07-18,['Pitcher'],St.LouisCardinals
-Heston Kjerstad,/players/k/kjershe01.shtml,1999-02-12,2023-09-14,"['DesignatedHitter,PinchHitter', 'Leftfielder']",BaltimoreOrioles
+Heston Kjerstad,/players/k/kjershe01.shtml,1999-02-12,2023-09-14,"['DesignatedHitter', 'PinchHitter', 'Leftfielder']",BaltimoreOrioles
 Andrew Knapp,/players/k/knappan01.shtml,1991-11-09,2017-04-06,"['Catcher', 'PinchHitter']",TexasRangers
 Corey Knebel,/players/k/knebeco01.shtml,1991-11-26,2014-05-24,['Pitcher'],ChicagoWhiteSox
 Reiss Knehr,/players/k/knehrre01.shtml,1996-11-03,2021-07-09,['Pitcher'],SanDiegoPadres
@@ -745,7 +745,7 @@ Michael Kopech,/players/k/kopecmi01.shtml,1996-04-30,2018-08-21,['Pitcher'],Chic
 Jackson Kowar,/players/k/kowarja01.shtml,1996-10-04,2021-06-07,['Pitcher'],SeattleMariners
 Max Kranick,/players/k/kranima01.shtml,1997-07-21,2021-06-27,['Pitcher'],NewYorkMets
 Joey Krehbiel,/players/k/krehbjo01.shtml,1992-12-20,2018-07-02,['Pitcher'],SeattleMariners
-Ryan Kreidler,/players/k/kreidry01.shtml,1997-11-12,2022-09-02,"['Shortstop,ThirdBaseman', 'SecondBaseman']",DetroitTigers
+Ryan Kreidler,/players/k/kreidry01.shtml,1997-11-12,2022-09-02,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",DetroitTigers
 Dean Kremer,/players/k/kremede01.shtml,1996-01-07,2020-09-06,['Pitcher'],BaltimoreOrioles
 Brooks Kriske,/players/k/kriskbr01.shtml,1994-02-03,2020-07-29,['Pitcher'],CincinnatiReds
 Matt Krook,/players/k/krookma01.shtml,1994-10-21,2023-06-16,['Pitcher'],BaltimoreOrioles
@@ -753,7 +753,7 @@ Chad Kuhl,/players/k/kuhlch01.shtml,1992-09-10,2016-06-26,['Pitcher'],ChicagoWhi
 Joel Kuhnel,/players/k/kuhnejo01.shtml,1995-02-19,2019-08-16,['Pitcher'],HoustonAstros
 Steven Kwan,/players/k/kwanst01.shtml,1997-09-05,2022-04-07,['Leftfielder'],ClevelandGuardians
 Joe La Sorsa,/players/l/lasorjo01.shtml,1998-04-29,2023-05-29,['Pitcher'],WashingtonNationals
-Jake Lamb,/players/l/lambja01.shtml,1990-10-09,2014-08-07,"['ThirdBaseman,FirstBaseman', 'Outfielder']",PittsburghPirates
+Jake Lamb,/players/l/lambja01.shtml,1990-10-09,2014-08-07,"['ThirdBaseman', 'FirstBaseman', 'Outfielder']",PittsburghPirates
 Jimmy Lambert,/players/l/lambeji01.shtml,1994-11-18,2020-07-25,['Pitcher'],ChicagoWhiteSox
 Peter Lambert,/players/l/lambepe01.shtml,1997-04-18,2019-06-06,['Pitcher'],ColoradoRockies
 Dinelson Lamet,/players/l/lametdi01.shtml,1992-07-18,2017-05-25,['Pitcher'],LosAngelesDodgers
@@ -771,7 +771,7 @@ Casey Lawrence,/players/l/lawreca01.shtml,1987-10-28,2017-04-08,['Pitcher'],Seat
 Justin Lawrence,/players/l/lawreju01.shtml,1994-11-25,2021-04-29,['Pitcher'],ColoradoRockies
 Kyle Leahy,/players/l/leahyky01.shtml,1997-06-04,2023-07-07,['Pitcher'],St.LouisCardinals
 Jordan Leasure,/players/l/leasujo01.shtml,1998-08-15,,['Pitcher'],ChicagoWhiteSox
-Charles Leblanc,/players/l/leblach01.shtml,1996-06-03,2022-07-30,"['SecondBaseman,ThirdBaseman', 'FirstBaseman']",LosAngelesAngels
+Charles Leblanc,/players/l/leblach01.shtml,1996-06-03,2022-07-30,"['SecondBaseman', 'ThirdBaseman', 'FirstBaseman']",LosAngelesAngels
 José Leclerc,/players/l/leclejo01.shtml,1993-12-19,2016-07-06,['Pitcher'],TexasRangers
 Dylan Lee,/players/l/leedy01.shtml,1994-08-01,2021-10-01,['Pitcher'],AtlantaBraves
 Evan Lee,/players/l/leeev01.shtml,1997-06-18,2022-06-01,['Pitcher'],WashingtonNationals
@@ -779,12 +779,12 @@ Jung Hoo Lee,/players/l/leeju01.shtml,1998-08-20,,['Centerfielder'],SanFrancisco
 Korey Lee,/players/l/leeko01.shtml,1998-07-25,2022-07-01,['Catcher'],ChicagoWhiteSox
 Casey Legumina,/players/l/legumca01.shtml,1997-06-19,2023-04-15,['Pitcher'],CincinnatiReds
 Mark Leiter Jr.,/players/l/leitema02.shtml,1991-03-13,2017-04-28,['Pitcher'],ChicagoCubs
-DJ LeMahieu,/players/l/lemahdj01.shtml,1988-07-13,2011-05-30,"['SecondBaseman,ThirdBaseman', 'FirstBaseman']",NewYorkYankees
+DJ LeMahieu,/players/l/lemahdj01.shtml,1988-07-13,2011-05-30,"['SecondBaseman', 'ThirdBaseman', 'FirstBaseman']",NewYorkYankees
 Sandy León,/players/l/leonsa01.shtml,1989-03-13,2012-05-14,['Catcher'],AtlantaBraves
 Dominic Leone,/players/l/leonedo01.shtml,1991-10-26,2014-04-06,['Pitcher'],ChicagoWhiteSox
-Josh Lester,/players/l/lestejo02.shtml,1994-07-17,2022-09-05,"['FirstBaseman,PinchHitter', 'ThirdBaseman']",KansasCityRoyals
+Josh Lester,/players/l/lestejo02.shtml,1994-07-17,2022-09-05,"['FirstBaseman', 'PinchHitter', 'ThirdBaseman']",KansasCityRoyals
 Royce Lewis,/players/l/lewisro02.shtml,1999-06-05,2022-05-06,"['ThirdBaseman', 'Shortstop']",MinnesotaTwins
-Luis Liberato,/players/l/liberlu01.shtml,1995-12-18,2022-09-10,"['PinchHitter,PinchRunner', 'DesignatedHitter']",AtlantaBraves
+Luis Liberato,/players/l/liberlu01.shtml,1995-12-18,2022-09-10,"['PinchHitter', 'PinchRunner', 'DesignatedHitter']",AtlantaBraves
 Matthew Liberatore,/players/l/liberma01.shtml,1999-11-06,2022-05-21,['Pitcher'],St.LouisCardinals
 Jeff Lindgren,/players/l/lindgje01.shtml,1996-09-17,2023-04-03,['Pitcher'],MiamiMarlins
 Francisco Lindor,/players/l/lindofr01.shtml,1993-11-14,2015-06-14,['Shortstop'],NewYorkMets
@@ -798,15 +798,15 @@ Mauricio Llovera,/players/l/llovema01.shtml,1996-04-17,2020-09-06,['Pitcher'],Se
 Jonathan Loáisiga,/players/l/loaisjo01.shtml,1994-11-02,2018-06-15,['Pitcher'],NewYorkYankees
 Tim Locastro,/players/l/locasti01.shtml,1992-07-14,2017-09-29,['Outfielder'],SanDiegoPadres
 Nick Lodolo,/players/l/lodolni01.shtml,1998-02-05,2022-04-13,['Pitcher'],CincinnatiReds
-Nick Loftin,/players/l/loftini01.shtml,1998-09-25,2023-09-01,"['SecondBaseman,FirstBaseman', 'ThirdBaseman']",KansasCityRoyals
+Nick Loftin,/players/l/loftini01.shtml,1998-09-25,2023-09-01,"['SecondBaseman', 'FirstBaseman', 'ThirdBaseman']",KansasCityRoyals
 Zach Logue,/players/l/logueza01.shtml,1996-04-23,2022-04-19,['Pitcher'],AtlantaBraves
 Sam Long,/players/l/longsa01.shtml,1995-07-08,2021-06-09,['Pitcher'],KansasCityRoyals
-Alejo López,/players/l/lopezal03.shtml,1996-05-05,2021-06-28,"['SecondBaseman,PinchHitter', 'ThirdBaseman']",AtlantaBraves
+Alejo López,/players/l/lopezal03.shtml,1996-05-05,2021-06-28,"['SecondBaseman', 'PinchHitter', 'ThirdBaseman']",AtlantaBraves
 Jack López,/players/l/lopezja03.shtml,1992-12-16,2021-09-01,['SecondBaseman'],LosAngelesAngels
 Jacob Lopez,/players/l/lopezja04.shtml,1998-03-11,2023-08-14,['Pitcher'],TampaBayRays
 Jorge López,/players/l/lopezjo02.shtml,1993-02-10,2015-09-29,['Pitcher'],NewYorkMets
-Nicky Lopez,/players/l/lopezni01.shtml,1995-03-13,2019-05-14,"['SecondBaseman,Shortstop', 'ThirdBaseman']",ChicagoWhiteSox
-Otto Lopez,/players/l/lopezot01.shtml,1998-10-01,2021-08-17,"['Shortstop,SecondBaseman', 'Centerfielder']",MiamiMarlins
+Nicky Lopez,/players/l/lopezni01.shtml,1995-03-13,2019-05-14,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",ChicagoWhiteSox
+Otto Lopez,/players/l/lopezot01.shtml,1998-10-01,2021-08-17,"['Shortstop', 'SecondBaseman', 'Centerfielder']",MiamiMarlins
 Pablo López,/players/l/lopezpa01.shtml,1996-03-07,2018-06-30,['Pitcher'],MinnesotaTwins
 Reynaldo López,/players/l/lopezre01.shtml,1994-01-04,2016-07-19,['Pitcher'],AtlantaBraves
 Michael Lorenzen,/players/l/lorenmi01.shtml,1992-01-04,2015-04-29,"['Pitcher', 'Outfielder']",TexasRangers
@@ -819,16 +819,16 @@ Joey Lucchesi,/players/l/lucchjo01.shtml,1993-06-06,2018-03-30,['Pitcher'],NewYo
 Marco Luciano,/players/l/luciama01.shtml,2001-09-10,2023-07-26,['Shortstop'],SanFranciscoGiants
 Lucas Luetge,/players/l/luetglu01.shtml,1987-03-24,2012-04-07,['Pitcher'],BostonRedSox
 Seth Lugo,/players/l/lugose01.shtml,1989-11-17,2016-07-01,['Pitcher'],KansasCityRoyals
-Nathan Lukes,/players/l/lukesna01.shtml,1994-07-12,2023-03-30,"['Rightfielder,PinchRunner', 'DesignatedHitter']",TorontoBlueJays
-Jordan Luplow,/players/l/luplojo01.shtml,1993-09-26,2017-07-28,"['Outfielder,PinchHitter', 'FirstBaseman']",PhiladelphiaPhillies
-Gavin Lux,/players/l/luxga01.shtml,1997-11-23,2019-09-02,"['SecondBaseman,Shortstop', 'Leftfielder']",LosAngelesDodgers
+Nathan Lukes,/players/l/lukesna01.shtml,1994-07-12,2023-03-30,"['Rightfielder', 'PinchRunner', 'DesignatedHitter']",TorontoBlueJays
+Jordan Luplow,/players/l/luplojo01.shtml,1993-09-26,2017-07-28,"['Outfielder', 'PinchHitter', 'FirstBaseman']",PhiladelphiaPhillies
+Gavin Lux,/players/l/luxga01.shtml,1997-11-23,2019-09-02,"['SecondBaseman', 'Shortstop', 'Leftfielder']",LosAngelesDodgers
 Jesús Luzardo,/players/l/luzarje01.shtml,1997-09-30,2019-09-11,['Pitcher'],MiamiMarlins
 Jordan Lyles,/players/l/lylesjo01.shtml,1990-10-19,2011-05-31,['Pitcher'],KansasCityRoyals
 Daniel Lynch IV,/players/l/lynchda02.shtml,1996-11-17,2021-05-03,['Pitcher'],KansasCityRoyals
 Lance Lynn,/players/l/lynnla01.shtml,1987-05-12,2011-06-02,['Pitcher'],St.LouisCardinals
 Dixon Machado,/players/m/machadi01.shtml,1992-02-22,2015-05-25,"['SecondBaseman', 'Shortstop']",HoustonAstros
 Manny Machado,/players/m/machama01.shtml,1992-07-06,2012-08-09,"['ThirdBaseman', 'Shortstop']",SanDiegoPadres
-Vimael Machín,/players/m/machivi01.shtml,1993-09-25,2020-07-26,"['ThirdBaseman,Shortstop', 'SecondBaseman']",
+Vimael Machín,/players/m/machivi01.shtml,1993-09-25,2020-07-26,"['ThirdBaseman', 'Shortstop', 'SecondBaseman']",
 Josh Maciejewski,/players/m/maciejo01.shtml,1995-08-14,,['Pitcher'],NewYorkYankees
 Nick Madrigal,/players/m/madrini01.shtml,1997-03-05,2020-07-31,"['SecondBaseman', 'ThirdBaseman']",ChicagoCubs
 Bligh Madris,/players/m/madribl01.shtml,1996-02-29,2022-06-20,"['Rightfielder', 'FirstBaseman']",DetroitTigers
@@ -837,11 +837,11 @@ Tyler Mahle,/players/m/mahlety01.shtml,1994-09-29,2017-08-27,['Pitcher'],TexasRa
 Luke Maile,/players/m/mailelu01.shtml,1991-02-06,2015-09-01,['Catcher'],CincinnatiReds
 Martín Maldonado,/players/m/maldoma01.shtml,1986-08-16,2011-09-03,['Catcher'],ChicagoWhiteSox
 Sean Manaea,/players/m/manaese01.shtml,1992-02-01,2016-04-29,['Pitcher'],NewYorkMets
-Trey Mancini,/players/m/mancitr01.shtml,1992-03-18,2016-09-20,"['Outfielder,FirstBaseman', 'DesignatedHitter']",
+Trey Mancini,/players/m/mancitr01.shtml,1992-03-18,2016-09-20,"['Outfielder', 'FirstBaseman', 'DesignatedHitter']",
 Matt Manning,/players/m/mannima02.shtml,1998-01-28,2021-06-17,['Pitcher'],DetroitTigers
 Alek Manoah,/players/m/manoaal01.shtml,1998-01-09,2021-05-27,['Pitcher'],TorontoBlueJays
 Joe Mantiply,/players/m/mantijo01.shtml,1991-03-01,2016-09-03,['Pitcher'],ArizonaDiamondbacks
-Tucupita Marcano,/players/m/marcatu01.shtml,1999-09-16,2021-04-01,"['Shortstop,SecondBaseman', 'Leftfielder']",SanDiegoPadres
+Tucupita Marcano,/players/m/marcatu01.shtml,1999-09-16,2021-04-01,"['Shortstop', 'SecondBaseman', 'Leftfielder']",SanDiegoPadres
 Rafael Marchán,/players/m/marchra01.shtml,1999-02-25,2020-09-14,"['Catcher', 'FirstBaseman']",PhiladelphiaPhillies
 Manuel Margot,/players/m/margoma01.shtml,1994-09-28,2016-09-21,['Centerfielder'],MinnesotaTwins
 Ron Marinaccio,/players/m/marinro01.shtml,1995-07-01,2022-04-09,['Pitcher'],NewYorkYankees
@@ -852,11 +852,11 @@ Germán Márquez,/players/m/marquge01.shtml,1995-02-22,2016-09-08,['Pitcher'],Co
 Alec Marsh,/players/m/marshal01.shtml,1998-05-14,2023-06-30,['Pitcher'],KansasCityRoyals
 Brandon Marsh,/players/m/marshbr02.shtml,1997-12-18,2021-07-18,['Centerfielder'],PhiladelphiaPhillies
 José Marte,/players/m/martejo01.shtml,1996-06-14,2021-08-20,['Pitcher'],LosAngelesAngels
-Ketel Marte,/players/m/marteke01.shtml,1993-10-12,2015-07-31,"['SecondBaseman,Shortstop', 'Centerfielder']",ArizonaDiamondbacks
+Ketel Marte,/players/m/marteke01.shtml,1993-10-12,2015-07-31,"['SecondBaseman', 'Shortstop', 'Centerfielder']",ArizonaDiamondbacks
 Noelvi Marte,/players/m/marteno01.shtml,2001-10-16,2023-08-19,"['ThirdBaseman', 'Shortstop']",CincinnatiReds
 Starling Marte,/players/m/martest01.shtml,1988-10-09,2012-07-26,['Outfielder'],NewYorkMets
 Yunior Marte,/players/m/marteyu01.shtml,1995-02-02,2022-04-12,['Pitcher'],PhiladelphiaPhillies
-Austin Martin,/players/m/martiau01.shtml,1999-03-23,,"['Outfielder,PinchRunner', 'SecondBaseman']",MinnesotaTwins
+Austin Martin,/players/m/martiau01.shtml,1999-03-23,,"['Outfielder', 'PinchRunner', 'SecondBaseman']",MinnesotaTwins
 Chris Martin,/players/m/martich02.shtml,1986-06-02,2014-04-26,['Pitcher'],BostonRedSox
 Corbin Martin,/players/m/martico02.shtml,1995-12-28,2019-05-12,['Pitcher'],ArizonaDiamondbacks
 Davis Martin,/players/m/martida03.shtml,1997-01-04,2022-05-17,['Pitcher'],ChicagoWhiteSox
@@ -869,17 +869,17 @@ Nick Martinez,/players/m/martini01.shtml,1990-08-05,2014-04-05,['Pitcher'],Cinci
 Seth Martinez,/players/m/martise01.shtml,1994-08-29,2021-09-20,['Pitcher'],HoustonAstros
 Nick Martini,/players/m/martini02.shtml,1990-06-27,2018-06-06,"['Leftfielder', 'PinchHitter']",CincinnatiReds
 Michael Massey,/players/m/massemi02.shtml,1998-03-22,2022-07-15,['SecondBaseman'],KansasCityRoyals
-Miles Mastrobuoni,/players/m/mastrmi01.shtml,1995-10-31,2022-09-22,"['ThirdBaseman,SecondBaseman', 'Rightfielder']",ChicagoCubs
-Jorge Mateo,/players/m/mateojo01.shtml,1995-06-23,2020-08-13,"['Shortstop,Outfielder', 'SecondBaseman']",BaltimoreOrioles
-Mark Mathias,/players/m/mathima01.shtml,1994-08-02,2020-08-04,"['SecondBaseman,DesignatedHitter', 'Rightfielder']",CincinnatiReds
-Nick Maton,/players/m/matonni01.shtml,1997-02-18,2021-04-19,"['SecondBaseman,ThirdBaseman', 'Shortstop']",BaltimoreOrioles
+Miles Mastrobuoni,/players/m/mastrmi01.shtml,1995-10-31,2022-09-22,"['ThirdBaseman', 'SecondBaseman', 'Rightfielder']",ChicagoCubs
+Jorge Mateo,/players/m/mateojo01.shtml,1995-06-23,2020-08-13,"['Shortstop', 'Outfielder', 'SecondBaseman']",BaltimoreOrioles
+Mark Mathias,/players/m/mathima01.shtml,1994-08-02,2020-08-04,"['SecondBaseman', 'DesignatedHitter', 'Rightfielder']",CincinnatiReds
+Nick Maton,/players/m/matonni01.shtml,1997-02-18,2021-04-19,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",BaltimoreOrioles
 Phil Maton,/players/m/matonph01.shtml,1993-03-25,2017-06-11,['Pitcher'],TampaBayRays
 Luis Matos,/players/m/matoslu02.shtml,2002-01-28,2023-06-14,['Centerfielder'],SanFranciscoGiants
 Yuki Matsui,/players/m/matsuyu01.shtml,1995-10-30,,['Pitcher'],SanDiegoPadres
 Isaac Mattson,/players/m/mattsis01.shtml,1995-07-14,2021-05-07,['Pitcher'],PittsburghPirates
 Steven Matz,/players/m/matzst01.shtml,1991-05-29,2015-06-28,['Pitcher'],St.LouisCardinals
 Tyler Matzek,/players/m/matzety01.shtml,1990-10-19,2014-06-11,['Pitcher'],AtlantaBraves
-Ronny Mauricio,/players/m/mauriro01.shtml,2001-04-04,2023-09-01,"['SecondBaseman,ThirdBaseman', 'Shortstop']",NewYorkMets
+Ronny Mauricio,/players/m/mauriro01.shtml,2001-04-04,2023-09-01,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",NewYorkMets
 Dustin May,/players/m/maydu01.shtml,1997-09-06,2019-08-02,['Pitcher'],LosAngelesDodgers
 Mike Mayers,/players/m/mayermi01.shtml,1991-12-06,2016-07-24,['Pitcher'],TorontoBlueJays
 Tim Mayza,/players/m/mayzati01.shtml,1992-01-15,2017-08-15,['Pitcher'],TorontoBlueJays
@@ -901,11 +901,11 @@ Brendan McKay,/players/m/mckaybr01.shtml,1995-12-18,2019-06-29,['Pitcher'],Tampa
 Ryan McKenna,/players/m/mckenry01.shtml,1997-02-14,2021-04-05,['Outfielder'],BaltimoreOrioles
 Triston McKenzie,/players/m/mckentr01.shtml,1997-08-02,2020-08-22,['Pitcher'],ClevelandGuardians
 Billy McKinney,/players/m/mckinbi01.shtml,1994-08-23,2018-03-30,"['Outfielder', 'FirstBaseman']",PittsburghPirates
-Zach McKinstry,/players/m/mckinza01.shtml,1995-04-29,2020-09-16,"['Outfielder,SecondBaseman', 'ThirdBaseman']",DetroitTigers
+Zach McKinstry,/players/m/mckinza01.shtml,1995-04-29,2020-09-16,"['Outfielder', 'SecondBaseman', 'ThirdBaseman']",DetroitTigers
 Matt McLain,/players/m/mclaima01.shtml,1999-08-06,2023-05-15,"['Shortstop', 'SecondBaseman']",CincinnatiReds
-Ryan McMahon,/players/m/mcmahry01.shtml,1994-12-14,2017-08-12,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",ColoradoRockies
+Ryan McMahon,/players/m/mcmahry01.shtml,1994-12-14,2017-08-12,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",ColoradoRockies
 John McMillon,/players/m/mcmiljo01.shtml,1998-01-27,2023-08-17,['Pitcher'],KansasCityRoyals
-Jeff McNeil,/players/m/mcneije01.shtml,1992-04-08,2018-07-24,"['SecondBaseman,Leftfielder', 'ThirdBaseman']",NewYorkMets
+Jeff McNeil,/players/m/mcneije01.shtml,1992-04-08,2018-07-24,"['SecondBaseman', 'Leftfielder', 'ThirdBaseman']",NewYorkMets
 Curtis Mead,/players/m/meadcu01.shtml,2000-10-26,2023-08-04,"['ThirdBaseman', 'SecondBaseman']",TampaBayRays
 Parker Meadows,/players/m/meadopa01.shtml,1999-11-02,2023-08-21,['Centerfielder'],DetroitTigers
 John Means,/players/m/meansjo01.shtml,1993-04-24,2018-09-26,['Pitcher'],BaltimoreOrioles
@@ -916,11 +916,11 @@ Adonis Medina,/players/m/medinad01.shtml,1996-12-18,2020-09-20,['Pitcher'],Washi
 Luis Medina,/players/m/medinlu02.shtml,1999-05-03,2023-04-26,['Pitcher'],OaklandAthletics
 Trevor Megill,/players/m/megiltr01.shtml,1993-12-05,2021-04-26,['Pitcher'],MilwaukeeBrewers
 Tylor Megill,/players/m/megilty01.shtml,1995-07-28,2021-06-23,['Pitcher'],NewYorkMets
-Erick Mejia,/players/m/mejiaer01.shtml,1994-11-09,2019-09-05,"['Centerfielder,ThirdBaseman', 'SecondBaseman']",WashingtonNationals
+Erick Mejia,/players/m/mejiaer01.shtml,1994-11-09,2019-09-05,"['Centerfielder', 'ThirdBaseman', 'SecondBaseman']",WashingtonNationals
 Francisco Mejia,/players/m/mejiafr01.shtml,1995-10-27,2017-09-01,['Catcher'],MilwaukeeBrewers
 MJ Melendez,/players/m/melenmj01.shtml,1998-11-29,2022-05-03,"['Outfielder', 'Catcher']",KansasCityRoyals
-Danny Mendick,/players/m/mendida01.shtml,1993-09-28,2019-09-03,"['SecondBaseman,Shortstop', 'ThirdBaseman']",ChicagoWhiteSox
-Joey Meneses,/players/m/menesjo01.shtml,1992-05-06,2022-08-02,"['DesignatedHitter,FirstBaseman', 'Rightfielder']",WashingtonNationals
+Danny Mendick,/players/m/mendida01.shtml,1993-09-28,2019-09-03,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",ChicagoWhiteSox
+Joey Meneses,/players/m/menesjo01.shtml,1992-05-06,2022-08-02,"['DesignatedHitter', 'FirstBaseman', 'Rightfielder']",WashingtonNationals
 Óscar Mercado,/players/m/mercaos01.shtml,1994-12-16,2019-05-14,['Outfielder'],SanDiegoPadres
 Whit Merrifield,/players/m/merriwh01.shtml,1989-01-24,2016-05-18,"['SecondBaseman', 'Outfielder']",PhiladelphiaPhillies
 Jackson Merrill,/players/m/merrija01.shtml,2003-04-19,,['Centerfielder'],SanDiegoPadres
@@ -936,7 +936,7 @@ Bobby Miller,/players/m/millebo06.shtml,1999-04-05,2023-05-23,['Pitcher'],LosAng
 Bryce Miller,/players/m/millebr04.shtml,1998-08-23,2023-05-02,['Pitcher'],SeattleMariners
 Erik Miller,/players/m/milleer01.shtml,1998-02-13,,['Pitcher'],SanFranciscoGiants
 Mason Miller,/players/m/millema03.shtml,1998-08-24,2023-04-19,['Pitcher'],OaklandAthletics
-Owen Miller,/players/m/milleow01.shtml,1996-11-15,2021-05-23,"['FirstBaseman,SecondBaseman', 'ThirdBaseman']",MilwaukeeBrewers
+Owen Miller,/players/m/milleow01.shtml,1996-11-15,2021-05-23,"['FirstBaseman', 'SecondBaseman', 'ThirdBaseman']",MilwaukeeBrewers
 Shelby Miller,/players/m/millesh01.shtml,1990-10-10,2012-09-05,['Pitcher'],DetroitTigers
 Tyson Miller,/players/m/millety01.shtml,1995-07-29,2020-08-17,['Pitcher'],SeattleMariners
 Wyatt Mills,/players/m/millswy01.shtml,1995-01-25,2021-05-01,['Pitcher'],BostonRedSox
@@ -950,24 +950,24 @@ Casey Mize,/players/m/mizeca01.shtml,1997-05-01,2020-08-19,['Pitcher'],DetroitTi
 Carmen Mlodzinski,/players/m/mlodzca01.shtml,1999-02-19,2023-06-16,['Pitcher'],PittsburghPirates
 Anthony Molina,/players/m/molinan01.shtml,2002-01-12,,['Pitcher'],ColoradoRockies
 Sam Moll,/players/m/mollsa01.shtml,1992-01-03,2017-09-01,['Pitcher'],CincinnatiReds
-Andruw Monasterio,/players/m/monasan01.shtml,1997-05-30,2023-05-28,"['ThirdBaseman,SecondBaseman', 'Shortstop']",MilwaukeeBrewers
+Andruw Monasterio,/players/m/monasan01.shtml,1997-05-30,2023-05-28,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",MilwaukeeBrewers
 Yoán Moncada,/players/m/moncayo01.shtml,1995-05-27,2016-09-02,"['ThirdBaseman', 'SecondBaseman']",ChicagoWhiteSox
 Nate Mondou,/players/m/mondona01.shtml,1995-03-24,2022-10-04,['SecondBaseman'],SanDiegoPadres
 Mickey Moniak,/players/m/moniami01.shtml,1998-05-13,2020-09-16,['Outfielder'],LosAngelesAngels
 Frankie Montas,/players/m/montafr02.shtml,1993-03-21,2015-09-02,['Pitcher'],CincinnatiReds
 Elehuris Montero,/players/m/monteel01.shtml,1998-08-17,2022-05-01,"['FirstBaseman', 'ThirdBaseman']",ColoradoRockies
 Rafael Montero,/players/m/montera01.shtml,1990-10-17,2014-05-14,['Pitcher'],HoustonAstros
-Coco Montes,/players/m/monteco01.shtml,1996-10-07,2023-06-11,"['SecondBaseman,ThirdBaseman', 'Shortstop']",ColoradoRockies
+Coco Montes,/players/m/monteco01.shtml,1996-10-07,2023-06-11,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",ColoradoRockies
 Bryce Montes de Oca,/players/m/montebr01.shtml,1996-04-23,2022-09-03,['Pitcher'],NewYorkMets
 Jordan Montgomery,/players/m/montgjo01.shtml,1992-12-27,2017-04-12,['Pitcher'],ArizonaDiamondbacks
-Dylan Moore,/players/m/mooredy01.shtml,1992-08-02,2019-03-20,"['Outfielder,SecondBaseman', 'Shortstop']",SeattleMariners
+Dylan Moore,/players/m/mooredy01.shtml,1992-08-02,2019-03-20,"['Outfielder', 'SecondBaseman', 'Shortstop']",SeattleMariners
 Matt Moore,/players/m/moorema02.shtml,1989-06-18,2011-09-14,['Pitcher'],LosAngelesAngels
 McKinley Moore,/players/m/mooremc01.shtml,1998-08-24,2023-04-10,['Pitcher'],NewYorkYankees
 Francisco Morales,/players/m/moralfr02.shtml,1999-10-27,2022-05-09,['Pitcher'],ArizonaDiamondbacks
 Brian Moran,/players/m/moranbr01.shtml,1988-09-30,2019-09-05,['Pitcher'],AtlantaBraves
 Jovani Morán,/players/m/moranjo01.shtml,1997-04-24,2021-09-12,['Pitcher'],MinnesotaTwins
 Adrián Morejón,/players/m/morejad01.shtml,1999-02-27,2019-07-21,['Pitcher'],SanDiegoPadres
-Christopher Morel,/players/m/morelch01.shtml,1999-06-24,2022-05-17,"['Centerfielder,DesignatedHitter', 'SecondBaseman']",ChicagoCubs
+Christopher Morel,/players/m/morelch01.shtml,1999-06-24,2022-05-17,"['Centerfielder', 'DesignatedHitter', 'SecondBaseman']",ChicagoCubs
 Gabriel Moreno,/players/m/morenga01.shtml,2000-02-14,2022-06-11,['Catcher'],ArizonaDiamondbacks
 Dauri Moreta,/players/m/moretda01.shtml,1996-04-15,2021-09-26,['Pitcher'],PittsburghPirates
 Eli Morgan,/players/m/morgael01.shtml,1996-05-13,2021-05-28,['Pitcher'],ClevelandGuardians
@@ -976,7 +976,7 @@ Charlie Morton,/players/m/mortoch02.shtml,1983-11-12,2008-06-14,['Pitcher'],Atla
 Ryan Mountcastle,/players/m/mountry01.shtml,1997-02-18,2020-08-21,"['FirstBaseman', 'Leftfielder']",BaltimoreOrioles
 Kyle Muller,/players/m/mulleky01.shtml,1997-10-07,2021-06-16,['Pitcher'],OaklandAthletics
 Cedric Mullins,/players/m/mullice01.shtml,1994-10-01,2018-08-10,['Centerfielder'],BaltimoreOrioles
-Max Muncy,/players/m/muncyma01.shtml,1990-08-25,2015-04-25,"['ThirdBaseman,FirstBaseman', 'SecondBaseman']",LosAngelesDodgers
+Max Muncy,/players/m/muncyma01.shtml,1990-08-25,2015-04-25,"['ThirdBaseman', 'FirstBaseman', 'SecondBaseman']",LosAngelesDodgers
 Andrés Muñoz,/players/m/munozan01.shtml,1999-01-16,2019-07-12,['Pitcher'],SeattleMariners
 Penn Murfee,/players/m/murfepe01.shtml,1994-05-02,2022-04-29,['Pitcher'],HoustonAstros
 Chris Murphy,/players/m/murphch01.shtml,1998-06-05,2023-06-07,['Pitcher'],BostonRedSox
@@ -999,9 +999,9 @@ Nick Nelson,/players/n/nelsoni01.shtml,1995-12-05,2020-08-01,['Pitcher'],Philade
 Ryne Nelson,/players/n/nelsory01.shtml,1998-02-01,2022-09-05,['Pitcher'],ArizonaDiamondbacks
 Héctor Neris,/players/n/nerishe01.shtml,1989-06-14,2014-08-05,['Pitcher'],ChicagoCubs
 Zach Neto,/players/n/netoza01.shtml,2001-01-31,2023-04-15,['Shortstop'],LosAngelesAngels
-Tyler Nevin,/players/n/nevinty01.shtml,1997-05-29,2021-05-29,"['ThirdBaseman,FirstBaseman', 'Leftfielder']",OaklandAthletics
+Tyler Nevin,/players/n/nevinty01.shtml,1997-05-29,2021-05-29,"['ThirdBaseman', 'FirstBaseman', 'Leftfielder']",OaklandAthletics
 Sean Newcomb,/players/n/newcose01.shtml,1993-06-12,2017-06-10,['Pitcher'],OaklandAthletics
-Kevin Newman,/players/n/newmake01.shtml,1993-08-04,2018-08-16,"['Shortstop,SecondBaseman', 'ThirdBaseman']",ArizonaDiamondbacks
+Kevin Newman,/players/n/newmake01.shtml,1993-08-04,2018-08-16,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",ArizonaDiamondbacks
 Kyle Nicolas,/players/n/nicolky01.shtml,1999-02-22,2023-09-19,['Pitcher'],PittsburghPirates
 Tomás Nido,/players/n/nidoto01.shtml,1994-04-12,2017-09-13,['Catcher'],NewYorkMets
 Brandon Nimmo,/players/n/nimmobr01.shtml,1993-03-27,2016-06-26,['Centerfielder'],NewYorkMets
@@ -1009,11 +1009,11 @@ Vinny Nittoli,/players/n/nittovi01.shtml,1990-11-11,2021-06-23,['Pitcher'],Oakla
 Ryan Noda,/players/n/nodary01.shtml,1996-03-30,2023-03-30,"['FirstBaseman', 'Rightfielder']",OaklandAthletics
 Stephen Nogosek,/players/n/nogosst01.shtml,1995-01-11,2019-06-19,['Pitcher'],WashingtonNationals
 Aaron Nola,/players/n/nolaaa01.shtml,1993-06-04,2015-07-21,['Pitcher'],PhiladelphiaPhillies
-Austin Nola,/players/n/nolaau01.shtml,1989-12-28,2019-06-16,"['Catcher,FirstBaseman', 'SecondBaseman']",KansasCityRoyals
+Austin Nola,/players/n/nolaau01.shtml,1989-12-28,2019-06-16,"['Catcher', 'FirstBaseman', 'SecondBaseman']",KansasCityRoyals
 Lars Nootbaar,/players/n/nootbla01.shtml,1997-09-08,2021-06-22,['Outfielder'],St.LouisCardinals
 Dedniel Núñez,/players/n/nunezde01.shtml,1996-06-05,,['Pitcher'],NewYorkMets
 Dom Nuñez,/players/n/nunezdo01.shtml,1995-01-17,2019-08-13,['Catcher'],ClevelandGuardians
-Nasim Nuñez,/players/n/nunezna01.shtml,2000-08-18,,"['PinchRunner,Shortstop', 'SecondBaseman']",WashingtonNationals
+Nasim Nuñez,/players/n/nunezna01.shtml,2000-08-18,,"['PinchRunner', 'Shortstop', 'SecondBaseman']",WashingtonNationals
 Riley O'Brien,/players/o/obrieri01.shtml,1995-02-06,2021-09-28,['Pitcher'],St.LouisCardinals
 Ryan O'Hearn,/players/o/ohearry01.shtml,1993-07-26,2018-07-31,"['FirstBaseman', 'Rightfielder']",BaltimoreOrioles
 Logan O'Hoppe,/players/o/ohopplo01.shtml,2000-02-09,2022-09-28,['Catcher'],LosAngelesAngels
@@ -1034,7 +1034,7 @@ Jonathan Ornelas,/players/o/orneljo01.shtml,2000-05-26,2023-08-07,"['Shortstop',
 Kaleb Ort,/players/o/ortka01.shtml,1992-02-05,2021-09-13,['Pitcher'],BaltimoreOrioles
 Oliver Ortega,/players/o/ortegol01.shtml,1996-10-02,2021-09-08,['Pitcher'],HoustonAstros
 Rafael Ortega,/players/o/ortegra01.shtml,1991-05-15,2012-09-30,['Outfielder'],ChicagoWhiteSox
-Joey Ortiz,/players/o/ortizjo06.shtml,1998-07-14,2023-04-27,"['ThirdBaseman,SecondBaseman', 'Shortstop']",MilwaukeeBrewers
+Joey Ortiz,/players/o/ortizjo06.shtml,1998-07-14,2023-04-27,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",MilwaukeeBrewers
 Luis Ortiz,/players/o/ortizlu02.shtml,1995-09-22,2018-09-07,['Pitcher'],PhiladelphiaPhillies
 Luis Ortiz,/players/o/ortizlu03.shtml,1999-01-27,2022-09-13,['Pitcher'],PittsburghPirates
 Adam Ottavino,/players/o/ottavad01.shtml,1985-11-22,2010-05-29,['Pitcher'],NewYorkMets
@@ -1042,7 +1042,7 @@ Glenn Otto,/players/o/ottogl01.shtml,1996-03-11,2021-08-27,['Pitcher'],SanDiegoP
 James Outman,/players/o/outmaja01.shtml,1997-05-14,2022-07-31,['Centerfielder'],LosAngelesDodgers
 Connor Overton,/players/o/overtco01.shtml,1993-07-24,2021-08-12,['Pitcher'],CincinnatiReds
 Johan Oviedo,/players/o/oviedjo01.shtml,1998-03-02,2020-08-19,['Pitcher'],PittsburghPirates
-Chris Owings,/players/o/owingch01.shtml,1991-08-12,2013-09-03,"['Shortstop,SecondBaseman', 'Outfielder']",LosAngelesDodgers
+Chris Owings,/players/o/owingch01.shtml,1991-08-12,2013-09-03,"['Shortstop', 'SecondBaseman', 'Outfielder']",LosAngelesDodgers
 Marcell Ozuna,/players/o/ozunama01.shtml,1990-11-12,2013-04-30,['Outfielder'],AtlantaBraves
 Cristian Pache,/players/p/pachecr01.shtml,1998-11-19,2020-08-21,['Centerfielder'],PhiladelphiaPhillies
 Chris Paddack,/players/p/paddach01.shtml,1996-01-08,2019-03-31,['Pitcher'],MinnesotaTwins
@@ -1057,13 +1057,13 @@ Andre Pallante,/players/p/pallaan01.shtml,1998-09-18,2022-04-10,['Pitcher'],St.L
 Thomas Pannone,/players/p/pannoth01.shtml,1994-04-28,2018-08-10,['Pitcher'],ChicagoCubs
 Michael Papierski,/players/p/papiemi01.shtml,1996-02-26,2022-05-21,['Catcher'],SeattleMariners
 Enoli Paredes,/players/p/pareden01.shtml,1995-09-28,2020-07-24,['Pitcher'],MilwaukeeBrewers
-Isaac Paredes,/players/p/paredis01.shtml,1999-02-18,2020-08-17,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",TampaBayRays
-Kyren Paris,/players/p/parisky01.shtml,2001-11-11,2023-09-01,"['Shortstop,SecondBaseman', 'Centerfielder']",LosAngelesAngels
-Hoy Park,/players/p/parkho01.shtml,1996-04-07,2021-07-16,"['SecondBaseman,ThirdBaseman', 'Outfielder']",OaklandAthletics
+Isaac Paredes,/players/p/paredis01.shtml,1999-02-18,2020-08-17,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",TampaBayRays
+Kyren Paris,/players/p/parisky01.shtml,2001-11-11,2023-09-01,"['Shortstop', 'SecondBaseman', 'Centerfielder']",LosAngelesAngels
+Hoy Park,/players/p/parkho01.shtml,1996-04-07,2021-07-16,"['SecondBaseman', 'ThirdBaseman', 'Outfielder']",OaklandAthletics
 Wes Parsons,/players/p/parsowe01.shtml,1992-09-06,2018-08-09,['Pitcher'],ClevelandGuardians
 Vinnie Pasquantino,/players/p/pasquvi01.shtml,1997-10-10,2022-06-28,"['FirstBaseman', 'DesignatedHitter']",KansasCityRoyals
 Luis Patiño,/players/p/patinlu01.shtml,1999-10-26,2020-08-05,['Pitcher'],SanDiegoPadres
-Graham Pauley,/players/p/paulegr01.shtml,2000-09-24,,"['ThirdBaseman,PinchHitter', 'FirstBaseman']",SanDiegoPadres
+Graham Pauley,/players/p/paulegr01.shtml,2000-09-24,,"['ThirdBaseman', 'PinchHitter', 'FirstBaseman']",SanDiegoPadres
 James Paxton,/players/p/paxtoja01.shtml,1988-11-06,2013-09-07,['Pitcher'],LosAngelesDodgers
 Joel Payamps,/players/p/payamjo01.shtml,1994-04-07,2019-08-21,['Pitcher'],MilwaukeeBrewers
 Tyler Payne,/players/p/paynety01.shtml,1992-10-25,2021-10-03,"['PinchHitter', 'Catcher']",LosAngelesAngels
@@ -1079,16 +1079,16 @@ Freddy Peralta,/players/p/peralfr01.shtml,1996-06-04,2018-05-13,['Pitcher'],Milw
 Sammy Peralta,/players/p/peralsa01.shtml,1998-05-10,2023-05-04,['Pitcher'],SeattleMariners
 Wandy Peralta,/players/p/peralwa01.shtml,1991-07-27,2016-09-04,['Pitcher'],SanDiegoPadres
 Wily Peralta,/players/p/peralwi01.shtml,1989-05-08,2012-04-22,['Pitcher'],PittsburghPirates
-Oswald Peraza,/players/p/perazos02.shtml,2000-06-15,2022-09-02,"['ThirdBaseman,Shortstop', 'SecondBaseman']",NewYorkYankees
+Oswald Peraza,/players/p/perazos02.shtml,2000-06-15,2022-09-02,"['ThirdBaseman', 'Shortstop', 'SecondBaseman']",NewYorkYankees
 Angel Perdomo,/players/p/perdoan01.shtml,1994-05-07,2020-08-18,['Pitcher'],AtlantaBraves
-Geraldo Perdomo,/players/p/perdoge01.shtml,1999-10-22,2021-04-03,"['Shortstop,SecondBaseman', 'ThirdBaseman']",ArizonaDiamondbacks
+Geraldo Perdomo,/players/p/perdoge01.shtml,1999-10-22,2021-04-03,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",ArizonaDiamondbacks
 Everson Pereira,/players/p/pereiev01.shtml,2001-04-10,2023-08-22,['Leftfielder'],NewYorkYankees
 Carlos Pérez,/players/p/perezca02.shtml,1990-10-27,2015-05-05,"['Catcher', 'FirstBaseman']",OaklandAthletics
 Carlos Pérez,/players/p/perezca03.shtml,1996-09-10,2022-08-26,"['Catcher', 'PinchHitter']",ChicagoWhiteSox
 Cionel Pérez,/players/p/perezci01.shtml,1996-04-21,2018-07-11,['Pitcher'],BaltimoreOrioles
 Eury Pérez,/players/p/perezeu02.shtml,2003-04-15,2023-05-12,['Pitcher'],MiamiMarlins
 Francisco Pérez,/players/p/perezfr01.shtml,1997-07-20,2021-08-12,['Pitcher'],OaklandAthletics
-Hernán Pérez,/players/p/perezhe01.shtml,1991-03-26,2012-06-09,"['ThirdBaseman,Outfielder', 'SecondBaseman']",CincinnatiReds
+Hernán Pérez,/players/p/perezhe01.shtml,1991-03-26,2012-06-09,"['ThirdBaseman', 'Outfielder', 'SecondBaseman']",CincinnatiReds
 Joe Perez,/players/p/perezjo02.shtml,1999-08-12,2022-04-08,"['PinchHitter', 'ThirdBaseman']",PittsburghPirates
 Martín Pérez,/players/p/perezma02.shtml,1991-04-04,2012-06-27,['Pitcher'],PittsburghPirates
 Michael Pérez,/players/p/perezmi03.shtml,1992-08-07,2018-07-26,['Catcher'],BaltimoreOrioles
@@ -1098,7 +1098,7 @@ Wenceel Pérez,/players/p/perezwe01.shtml,1999-10-30,,"['Outfielder', 'PinchHitt
 Blake Perkins,/players/p/perkibl01.shtml,1996-09-10,2023-04-19,['Outfielder'],MilwaukeeBrewers
 David Peterson,/players/p/peterda01.shtml,1995-09-03,2020-07-28,['Pitcher'],NewYorkMets
 Dustin Peterson,/players/p/peterdu01.shtml,1994-09-10,2018-05-28,"['Outfielder', 'FirstBaseman']",PittsburghPirates
-Jace Peterson,/players/p/peterja01.shtml,1990-05-09,2014-04-25,"['SecondBaseman,ThirdBaseman', 'Outfielder']",ArizonaDiamondbacks
+Jace Peterson,/players/p/peterja01.shtml,1990-05-09,2014-04-25,"['SecondBaseman', 'ThirdBaseman', 'Outfielder']",ArizonaDiamondbacks
 Brandon Pfaadt,/players/p/pfaadbr01.shtml,1998-10-15,2023-05-03,['Pitcher'],ArizonaDiamondbacks
 Brett Phillips,/players/p/phillbr02.shtml,1994-05-30,2017-06-05,['Outfielder'],ChicagoWhiteSox
 Connor Phillips,/players/p/phillco01.shtml,2001-05-04,2023-09-05,['Pitcher'],CincinnatiReds
@@ -1125,47 +1125,47 @@ Yohel Pozo,/players/p/pozoyo01.shtml,1997-06-14,2021-08-13,"['DesignatedHitter',
 Nick Pratto,/players/p/prattni01.shtml,1998-10-06,2022-07-14,"['FirstBaseman', 'Leftfielder']",KansasCityRoyals
 Ryan Pressly,/players/p/pressry01.shtml,1988-12-15,2013-04-04,['Pitcher'],HoustonAstros
 Quinn Priester,/players/p/priesqu01.shtml,2000-09-16,2023-07-17,['Pitcher'],PittsburghPirates
-Jurickson Profar,/players/p/profaju01.shtml,1993-02-20,2012-09-02,"['Leftfielder,SecondBaseman', 'Shortstop']",SanDiegoPadres
+Jurickson Profar,/players/p/profaju01.shtml,1993-02-20,2012-09-02,"['Leftfielder', 'SecondBaseman', 'Shortstop']",SanDiegoPadres
 Austin Pruitt,/players/p/pruitau01.shtml,1989-08-31,2017-04-02,['Pitcher'],TexasRangers
 A.J. Puk,/players/p/pukaj01.shtml,1995-04-25,2019-08-21,['Pitcher'],MiamiMarlins
 Cal Quantrill,/players/q/quantca01.shtml,1995-02-10,2019-05-01,['Pitcher'],ColoradoRockies
 José Quijada,/players/q/quijajo01.shtml,1995-11-09,2019-04-24,['Pitcher'],LosAngelesAngels
 Jose Quintana,/players/q/quintjo01.shtml,1989-01-24,2012-05-07,['Pitcher'],NewYorkMets
 Esteban Quiroz,/players/q/quiroes01.shtml,1992-02-17,2022-09-17,['SecondBaseman'],PhiladelphiaPhillies
-Ceddanne Rafaela,/players/r/rafaece01.shtml,2000-09-18,2023-08-28,"['Centerfielder,SecondBaseman', 'Shortstop']",BostonRedSox
+Ceddanne Rafaela,/players/r/rafaece01.shtml,2000-09-18,2023-08-28,"['Centerfielder', 'SecondBaseman', 'Shortstop']",BostonRedSox
 Cole Ragans,/players/r/raganco01.shtml,1997-12-12,2022-08-04,['Pitcher'],KansasCityRoyals
 Tanner Rainey,/players/r/raineta01.shtml,1992-12-25,2018-04-10,['Pitcher'],WashingtonNationals
 Cal Raleigh,/players/r/raleica01.shtml,1996-11-26,2021-07-11,['Catcher'],SeattleMariners
 Brooks Raley,/players/r/raleybr01.shtml,1988-06-29,2012-08-07,['Pitcher'],NewYorkMets
 Luke Raley,/players/r/raleylu01.shtml,1994-09-19,2021-04-09,"['Outfielder', 'FirstBaseman']",SeattleMariners
 Erasmo Ramírez,/players/r/ramirer02.shtml,1990-05-02,2012-04-09,['Pitcher'],TampaBayRays
-Harold Ramírez,/players/r/ramirha02.shtml,1994-09-06,2019-05-11,"['Outfielder,DesignatedHitter', 'FirstBaseman']",TampaBayRays
-José Ramírez,/players/r/ramirjo01.shtml,1992-09-17,2013-09-01,"['ThirdBaseman,SecondBaseman', 'Shortstop']",ClevelandGuardians
+Harold Ramírez,/players/r/ramirha02.shtml,1994-09-06,2019-05-11,"['Outfielder', 'DesignatedHitter', 'FirstBaseman']",TampaBayRays
+José Ramírez,/players/r/ramirjo01.shtml,1992-09-17,2013-09-01,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",ClevelandGuardians
 Nick Ramirez,/players/r/ramirni01.shtml,1989-08-01,2019-05-11,['Pitcher'],LosAngelesDodgers
 Roel Ramírez,/players/r/ramirro02.shtml,1995-05-26,2020-08-16,['Pitcher'],
 Yohan Ramírez,/players/r/ramiryo01.shtml,1995-05-06,2020-07-24,['Pitcher'],BaltimoreOrioles
 Heliot Ramos,/players/r/ramoshe02.shtml,1999-09-07,2022-04-10,['Outfielder'],SanFranciscoGiants
 Lane Ramsey,/players/r/ramsela02.shtml,1996-07-16,2023-08-06,['Pitcher'],ChicagoWhiteSox
 Drew Rasmussen,/players/r/rasmudr01.shtml,1995-07-27,2020-08-19,['Pitcher'],TampaBayRays
-Rangel Ravelo,/players/r/ravelra01.shtml,1992-04-24,2019-06-17,"['PinchHitter,FirstBaseman', 'Rightfielder']",SeattleMariners
+Rangel Ravelo,/players/r/ravelra01.shtml,1992-04-24,2019-06-17,"['PinchHitter', 'FirstBaseman', 'Rightfielder']",SeattleMariners
 Robbie Ray,/players/r/rayro02.shtml,1991-10-01,2014-05-06,['Pitcher'],SanFranciscoGiants
 Colin Rea,/players/r/reaco01.shtml,1990-07-01,2015-08-11,['Pitcher'],MilwaukeeBrewers
 J.T. Realmuto,/players/r/realmjt01.shtml,1991-03-18,2014-06-05,"['Catcher', 'FirstBaseman']",PhiladelphiaPhillies
 Jakson Reetz,/players/r/reetzja01.shtml,1996-01-03,2021-07-10,"['PinchHitter', 'Catcher']",SanFranciscoGiants
-Rob Refsnyder,/players/r/refsnro01.shtml,1991-03-26,2015-07-11,"['Outfielder,SecondBaseman', 'FirstBaseman']",BostonRedSox
+Rob Refsnyder,/players/r/refsnro01.shtml,1991-03-26,2015-07-11,"['Outfielder', 'SecondBaseman', 'FirstBaseman']",BostonRedSox
 Sean Reid-Foley,/players/r/reidfse01.shtml,1995-08-30,2018-08-13,['Pitcher'],NewYorkMets
 Zach Reks,/players/r/reksza01.shtml,1993-11-12,2021-06-21,"['Leftfielder', 'PinchHitter']",SanDiegoPadres
-Zach Remillard,/players/r/remilza01.shtml,1994-02-21,2023-06-17,"['SecondBaseman,Outfielder', 'ThirdBaseman']",ChicagoWhiteSox
+Zach Remillard,/players/r/remilza01.shtml,1994-02-21,2023-06-17,"['SecondBaseman', 'Outfielder', 'ThirdBaseman']",ChicagoWhiteSox
 Anthony Rendon,/players/r/rendoan01.shtml,1990-06-06,2013-04-21,"['ThirdBaseman', 'SecondBaseman']",LosAngelesAngels
 Hunter Renfroe,/players/r/renfrhu01.shtml,1992-01-28,2016-09-21,['Rightfielder'],KansasCityRoyals
-Luis Rengifo,/players/r/rengilu01.shtml,1997-02-26,2019-04-25,"['SecondBaseman,Shortstop', 'ThirdBaseman']",LosAngelesAngels
+Luis Rengifo,/players/r/rengilu01.shtml,1997-02-26,2019-04-25,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",LosAngelesAngels
 Gerardo Reyes,/players/r/reyesge01.shtml,1993-05-13,2019-04-12,['Pitcher'],OaklandAthletics
-Pablo Reyes,/players/r/reyespa01.shtml,1993-09-05,2018-09-02,"['Outfielder,PinchHitter', 'SecondBaseman']",BostonRedSox
+Pablo Reyes,/players/r/reyespa01.shtml,1993-09-05,2018-09-02,"['Outfielder', 'PinchHitter', 'SecondBaseman']",BostonRedSox
 Bryan Reynolds,/players/r/reynobr01.shtml,1995-01-27,2019-04-20,['Outfielder'],PittsburghPirates
 Trevor Richards,/players/r/richatr01.shtml,1993-05-15,2018-04-02,['Pitcher'],TorontoBlueJays
 Lyon Richardson,/players/r/richaly01.shtml,2000-01-18,2023-08-06,['Pitcher'],CincinnatiReds
 Austin Riley,/players/r/rileyau01.shtml,1997-04-02,2019-05-15,"['ThirdBaseman', 'Leftfielder']",AtlantaBraves
-Edwin Ríos,/players/r/riosed01.shtml,1994-04-21,2019-06-27,"['PinchHitter,ThirdBaseman', 'DesignatedHitter']",CincinnatiReds
+Edwin Ríos,/players/r/riosed01.shtml,1994-04-21,2019-06-27,"['PinchHitter', 'ThirdBaseman', 'DesignatedHitter']",CincinnatiReds
 Yacksel Ríos,/players/r/riosya01.shtml,1993-06-27,2017-08-22,['Pitcher'],NewYorkMets
 Alfonso Rivas III,/players/r/rivasal01.shtml,1996-09-13,2021-08-29,"['FirstBaseman', 'Outfielder']",St.LouisCardinals
 Emmanuel Rivera,/players/r/riverem01.shtml,1996-06-29,2021-06-28,"['ThirdBaseman', 'FirstBaseman']",MiamiMarlins
@@ -1199,9 +1199,9 @@ Taylor Rogers,/players/r/rogerta01.shtml,1990-12-17,2016-04-14,['Pitcher'],SanFr
 Trevor Rogers,/players/r/rogertr01.shtml,1997-11-13,2020-08-25,['Pitcher'],MiamiMarlins
 Tyler Rogers,/players/r/rogerty01.shtml,1990-12-17,2019-08-27,['Pitcher'],SanFranciscoGiants
 Johan Rojas,/players/r/rojasjo03.shtml,2000-08-14,2023-07-15,['Centerfielder'],PhiladelphiaPhillies
-Jose Rojas,/players/r/rojasjo02.shtml,1993-02-24,2021-04-02,"['Rightfielder,ThirdBaseman', 'SecondBaseman']",NewYorkYankees
-Josh Rojas,/players/r/rojasjo01.shtml,1994-06-30,2019-08-12,"['ThirdBaseman,SecondBaseman', 'Outfielder']",SeattleMariners
-Miguel Rojas,/players/r/rojasmi02.shtml,1989-02-24,2014-06-06,"['Shortstop,FirstBaseman', 'ThirdBaseman']",LosAngelesDodgers
+Jose Rojas,/players/r/rojasjo02.shtml,1993-02-24,2021-04-02,"['Rightfielder', 'ThirdBaseman', 'SecondBaseman']",NewYorkYankees
+Josh Rojas,/players/r/rojasjo01.shtml,1994-06-30,2019-08-12,"['ThirdBaseman', 'SecondBaseman', 'Outfielder']",SeattleMariners
+Miguel Rojas,/players/r/rojasmi02.shtml,1989-02-24,2014-06-06,"['Shortstop', 'FirstBaseman', 'ThirdBaseman']",LosAngelesDodgers
 Drew Rom,/players/r/romdr01.shtml,1999-12-15,2023-08-21,['Pitcher'],St.LouisCardinals
 Jordan Romano,/players/r/romanjo03.shtml,1993-04-21,2019-06-12,['Pitcher'],TorontoBlueJays
 Jhon Romero,/players/r/romerjh01.shtml,1995-01-17,2021-09-24,['Pitcher'],
@@ -1209,9 +1209,9 @@ JoJo Romero,/players/r/romerjo01.shtml,1996-09-09,2020-08-21,['Pitcher'],St.Loui
 Tommy Romero,/players/r/romerto01.shtml,1997-07-08,2022-04-12,['Pitcher'],SanFranciscoGiants
 Brent Rooker,/players/r/rookebr01.shtml,1994-11-01,2020-09-04,"['Outfielder', 'DesignatedHitter']",OaklandAthletics
 Ben Rortvedt,/players/r/rortvbe01.shtml,1997-09-25,2021-04-30,['Catcher'],TampaBayRays
-Amed Rosario,/players/r/rosaram01.shtml,1995-11-20,2017-08-01,"['Shortstop,SecondBaseman', 'Outfielder']",TampaBayRays
+Amed Rosario,/players/r/rosaram01.shtml,1995-11-20,2017-08-01,"['Shortstop', 'SecondBaseman', 'Outfielder']",TampaBayRays
 Eddie Rosario,/players/r/rosared01.shtml,1991-09-28,2015-05-06,['Leftfielder'],WashingtonNationals
-Eguy Rosario,/players/r/rosareg01.shtml,1999-08-25,2022-08-26,"['ThirdBaseman,PinchHitter', 'Shortstop']",SanDiegoPadres
+Eguy Rosario,/players/r/rosareg01.shtml,1999-08-25,2022-08-26,"['ThirdBaseman', 'PinchHitter', 'Shortstop']",SanDiegoPadres
 Kenny Rosenberg,/players/r/rosenke01.shtml,1995-07-09,2022-04-18,['Pitcher'],LosAngelesAngels
 Joe Ross,/players/r/rossjo01.shtml,1993-05-21,2015-06-06,['Pitcher'],MilwaukeeBrewers
 Landen Roupp,/players/r/rouppla01.shtml,1998-09-10,,['Pitcher'],SanFranciscoGiants
@@ -1240,7 +1240,7 @@ Nick Sandlin,/players/s/sandlni01.shtml,1997-01-10,2021-05-01,['Pitcher'],Clevel
 Patrick Sandoval,/players/s/sandopa02.shtml,1996-10-18,2019-08-05,['Pitcher'],LosAngelesAngels
 Cole Sands,/players/s/sandsco01.shtml,1997-07-17,2022-05-01,['Pitcher'],MinnesotaTwins
 Reiver Sanmartin,/players/s/sanmare01.shtml,1996-04-15,2021-09-27,['Pitcher'],CincinnatiReds
-Miguel Sanó,/players/s/sanomi01.shtml,1993-05-11,2015-07-02,"['ThirdBaseman,FirstBaseman', 'Rightfielder']",LosAngelesAngels
+Miguel Sanó,/players/s/sanomi01.shtml,1993-05-11,2015-07-02,"['ThirdBaseman', 'FirstBaseman', 'Rightfielder']",LosAngelesAngels
 Carlos Santana,/players/s/santaca01.shtml,1986-04-08,2010-06-11,"['FirstBaseman', 'Catcher']",MinnesotaTwins
 Dennis Santana,/players/s/santade01.shtml,1996-04-12,2018-06-01,['Pitcher'],NewYorkYankees
 Anthony Santander,/players/s/santaan02.shtml,1994-10-19,2017-08-18,['Rightfielder'],BaltimoreOrioles
@@ -1252,11 +1252,11 @@ Josh Sborz,/players/s/sborzjo01.shtml,1993-12-17,2019-06-20,['Pitcher'],TexasRan
 Nolan Schanuel,/players/s/schanno01.shtml,2002-02-14,2023-08-18,['FirstBaseman'],LosAngelesAngels
 Max Scherzer,/players/s/scherma01.shtml,1984-07-27,2008-04-29,['Pitcher'],TexasRangers
 Clarke Schmidt,/players/s/schmicl01.shtml,1996-02-20,2020-09-04,['Pitcher'],NewYorkYankees
-Casey Schmitt,/players/s/schmica01.shtml,1999-03-01,2023-05-09,"['Shortstop,ThirdBaseman', 'SecondBaseman']",SanFranciscoGiants
-Davis Schneider,/players/s/schneda03.shtml,1999-01-26,2023-08-04,"['SecondBaseman,Leftfielder', 'ThirdBaseman']",TorontoBlueJays
+Casey Schmitt,/players/s/schmica01.shtml,1999-03-01,2023-05-09,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",SanFranciscoGiants
+Davis Schneider,/players/s/schneda03.shtml,1999-01-26,2023-08-04,"['SecondBaseman', 'Leftfielder', 'ThirdBaseman']",TorontoBlueJays
 Jesse Scholtens,/players/s/scholje01.shtml,1994-04-06,2023-04-07,['Pitcher'],ChicagoWhiteSox
 John Schreiber,/players/s/schrejo01.shtml,1994-03-05,2019-08-09,['Pitcher'],KansasCityRoyals
-Max Schuemann,/players/s/schuema01.shtml,1997-06-11,,"['PinchRunner,Centerfielder', 'ThirdBaseman']",OaklandAthletics
+Max Schuemann,/players/s/schuema01.shtml,1997-06-11,,"['PinchRunner', 'Centerfielder', 'ThirdBaseman']",OaklandAthletics
 Kyle Schwarber,/players/s/schwaky01.shtml,1993-03-05,2015-06-16,['Leftfielder'],PhiladelphiaPhillies
 Tanner Scott,/players/s/scottta01.shtml,1994-07-22,2017-09-20,['Pitcher'],MiamiMarlins
 Tayler Scott,/players/s/scottta02.shtml,1992-06-01,2019-06-08,['Pitcher'],HoustonAstros
@@ -1265,12 +1265,12 @@ Andre Scrubb,/players/s/scruban01.shtml,1995-01-13,2020-07-28,['Pitcher'],NewYor
 Corey Seager,/players/s/seageco01.shtml,1994-04-27,2015-09-03,['Shortstop'],TexasRangers
 Chandler Seagle,/players/s/seaglch01.shtml,1996-05-23,2023-09-30,"['PinchHitter', 'DesignatedHitter']",SanDiegoPadres
 JP Sears,/players/s/searsjp01.shtml,1996-02-19,2022-04-13,['Pitcher'],OaklandAthletics
-Jean Segura,/players/s/segurje01.shtml,1990-03-17,2012-07-24,"['Shortstop,SecondBaseman', 'ThirdBaseman']",
+Jean Segura,/players/s/segurje01.shtml,1990-03-17,2012-07-24,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",
 Colin Selby,/players/s/selbyco01.shtml,1997-10-24,2023-08-09,['Pitcher'],KansasCityRoyals
-Marcus Semien,/players/s/semiema01.shtml,1990-09-17,2013-09-04,"['Shortstop,SecondBaseman', 'ThirdBaseman']",TexasRangers
+Marcus Semien,/players/s/semiema01.shtml,1990-09-17,2013-09-04,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",TexasRangers
 Kodai Senga,/players/s/sengako01.shtml,1993-01-30,2023-04-02,['Pitcher'],NewYorkMets
 Antonio Senzatela,/players/s/senzaan01.shtml,1995-01-21,2017-04-06,['Pitcher'],ColoradoRockies
-Nick Senzel,/players/s/senzeni01.shtml,1995-06-29,2019-05-03,"['Centerfielder,ThirdBaseman', 'SecondBaseman']",WashingtonNationals
+Nick Senzel,/players/s/senzeni01.shtml,1995-06-29,2019-05-03,"['Centerfielder', 'ThirdBaseman', 'SecondBaseman']",WashingtonNationals
 Brian Serven,/players/s/servebr01.shtml,1995-05-05,2022-05-18,['Catcher'],TorontoBlueJays
 Luis Severino,/players/s/severlu01.shtml,1994-02-20,2015-08-05,['Pitcher'],NewYorkMets
 Paul Sewald,/players/s/sewalpa01.shtml,1990-05-26,2017-04-08,['Pitcher'],ArizonaDiamondbacks
@@ -1279,7 +1279,7 @@ Emmet Sheehan,/players/s/sheehem01.shtml,1999-11-15,2023-06-16,['Pitcher'],LosAn
 Gavin Sheets,/players/s/sheetga01.shtml,1996-04-23,2021-06-29,"['Rightfielder', 'FirstBaseman']",ChicagoWhiteSox
 Austin Shenton,/players/s/shentau01.shtml,1998-01-22,,['FirstBaseman'],TampaBayRays
 Braden Shewmake,/players/s/shewmbr01.shtml,1997-11-19,2023-05-05,"['Shortstop', 'SecondBaseman']",ChicagoWhiteSox
-Zack Short,/players/s/shortza01.shtml,1995-05-29,2021-04-21,"['Shortstop,SecondBaseman', 'ThirdBaseman']",NewYorkMets
+Zack Short,/players/s/shortza01.shtml,1995-05-29,2021-04-21,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",NewYorkMets
 Chasen Shreve,/players/s/shrevch01.shtml,1990-07-12,2014-07-19,['Pitcher'],TexasRangers
 Jared Shuster,/players/s/shustja01.shtml,1998-08-03,2023-04-02,['Pitcher'],ChicagoWhiteSox
 Michael Siani,/players/s/sianimi01.shtml,1999-07-16,2022-09-22,"['Outfielder', 'PinchRunner']",St.LouisCardinals
@@ -1290,14 +1290,14 @@ Jon Singleton,/players/s/singljo02.shtml,1991-09-18,2014-06-03,['FirstBaseman'],
 Jose Siri,/players/s/sirijo01.shtml,1995-07-22,2021-09-03,['Centerfielder'],TampaBayRays
 Tarik Skubal,/players/s/skubata01.shtml,1996-11-20,2020-08-18,['Pitcher'],DetroitTigers
 Justin Slaten,/players/s/slateju01.shtml,1997-09-15,,['Pitcher'],BostonRedSox
-Austin Slater,/players/s/slateau01.shtml,1992-12-13,2017-06-02,"['Outfielder,PinchHitter', 'FirstBaseman']",SanFranciscoGiants
+Austin Slater,/players/s/slateau01.shtml,1992-12-13,2017-06-02,"['Outfielder', 'PinchHitter', 'FirstBaseman']",SanFranciscoGiants
 Ethan Small,/players/s/smallet01.shtml,1997-02-14,2022-05-30,['Pitcher'],SanFranciscoGiants
 Devin Smeltzer,/players/s/smeltde01.shtml,1995-09-07,2019-05-28,['Pitcher'],MiamiMarlins
 Burch Smith,/players/s/smithbu03.shtml,1990-04-12,2013-05-11,['Pitcher'],MiamiMarlins
 Cade Smith,/players/s/smithca06.shtml,1999-05-09,,['Pitcher'],ClevelandGuardians
 Dominic Smith,/players/s/smithdo02.shtml,1995-06-15,2017-08-11,"['FirstBaseman', 'Leftfielder']",TampaBayRays
 Drew Smith,/players/s/smithdr01.shtml,1993-09-24,2018-06-23,['Pitcher'],NewYorkMets
-Josh H. Smith,/players/s/smithjo11.shtml,1997-08-07,2022-05-30,"['ThirdBaseman,Leftfielder', 'Shortstop']",TexasRangers
+Josh H. Smith,/players/s/smithjo11.shtml,1997-08-07,2022-05-30,"['ThirdBaseman', 'Leftfielder', 'Shortstop']",TexasRangers
 Kevin Smith,/players/s/smithke05.shtml,1996-07-04,2021-08-18,"['ThirdBaseman', 'Shortstop']",NewYorkYankees
 Pavin Smith,/players/s/smithpa04.shtml,1996-02-06,2020-09-12,"['Rightfielder', 'FirstBaseman']",ArizonaDiamondbacks
 Will Smith,/players/s/smithwi04.shtml,1989-07-10,2012-05-23,['Pitcher'],KansasCityRoyals
@@ -1309,18 +1309,18 @@ Kirby Snead,/players/s/sneadki01.shtml,1994-10-07,2021-07-28,['Pitcher'],Seattle
 Blake Snell,/players/s/snellbl01.shtml,1992-12-04,2016-04-23,['Pitcher'],SanFranciscoGiants
 Collin Snider,/players/s/snideco01.shtml,1995-10-10,2022-04-09,['Pitcher'],SeattleMariners
 Nicklaus Snyder,/players/s/snydeni01.shtml,1995-10-10,2021-08-21,['Pitcher'],PhiladelphiaPhillies
-Tyler Soderstrom,/players/s/soderty01.shtml,2001-11-24,2023-07-14,"['DesignatedHitter,Catcher', 'FirstBaseman']",OaklandAthletics
-Nick Solak,/players/s/solakni01.shtml,1995-01-11,2019-08-20,"['SecondBaseman,Leftfielder', 'ThirdBaseman']",SeattleMariners
+Tyler Soderstrom,/players/s/soderty01.shtml,2001-11-24,2023-07-14,"['DesignatedHitter', 'Catcher', 'FirstBaseman']",OaklandAthletics
+Nick Solak,/players/s/solakni01.shtml,1995-01-11,2019-08-20,"['SecondBaseman', 'Leftfielder', 'ThirdBaseman']",SeattleMariners
 Jorge Soler,/players/s/solerjo01.shtml,1992-02-25,2014-08-27,"['Rightfielder', 'DesignatedHitter']",SanFranciscoGiants
 Jared Solomon,/players/s/solomja01.shtml,1997-06-10,2022-05-07,['Pitcher'],MinnesotaTwins
 George Soriano,/players/s/soriage01.shtml,1999-03-24,2023-04-16,['Pitcher'],MiamiMarlins
 José Soriano,/players/s/soriajo02.shtml,1998-10-20,2023-06-03,['Pitcher'],LosAngelesAngels
 Michael Soroka,/players/s/sorokmi01.shtml,1997-08-04,2018-05-01,['Pitcher'],ChicagoWhiteSox
-Edmundo Sosa,/players/s/sosaed01.shtml,1996-03-06,2018-09-23,"['Shortstop,ThirdBaseman', 'SecondBaseman']",PhiladelphiaPhillies
-Lenyn Sosa,/players/s/sosale01.shtml,2000-01-25,2022-06-23,"['SecondBaseman,ThirdBaseman', 'Shortstop']",ChicagoWhiteSox
+Edmundo Sosa,/players/s/sosaed01.shtml,1996-03-06,2018-09-23,"['Shortstop', 'ThirdBaseman', 'SecondBaseman']",PhiladelphiaPhillies
+Lenyn Sosa,/players/s/sosale01.shtml,2000-01-25,2022-06-23,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",ChicagoWhiteSox
 Gregory Soto,/players/s/sotogr01.shtml,1995-02-11,2019-05-11,['Pitcher'],PhiladelphiaPhillies
 Juan Soto,/players/s/sotoju01.shtml,1998-10-25,2018-05-20,['Outfielder'],NewYorkYankees
-Livan Soto,/players/s/sotoli01.shtml,2000-06-22,2022-09-17,"['Shortstop,SecondBaseman', 'ThirdBaseman']",BaltimoreOrioles
+Livan Soto,/players/s/sotoli01.shtml,2000-06-22,2022-09-17,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",BaltimoreOrioles
 Bennett Sousa,/players/s/sousabe01.shtml,1995-04-06,2022-04-08,['Pitcher'],HoustonAstros
 Alex Speas,/players/s/speasal01.shtml,1998-03-04,2023-07-19,['Pitcher'],OaklandAthletics
 Gabe Speier,/players/s/speiega01.shtml,1995-04-12,2019-09-05,['Pitcher'],SeattleMariners
@@ -1336,7 +1336,7 @@ Max Stassi,/players/s/stassma01.shtml,1991-03-15,2013-08-20,['Catcher'],ChicagoW
 Josh Staumont,/players/s/staumjo01.shtml,1993-12-21,2019-07-25,['Pitcher'],MinnesotaTwins
 Drew Steckenrider,/players/s/steckdr01.shtml,1991-01-10,2017-05-24,['Pitcher'],OaklandAthletics
 Justin Steele,/players/s/steelju01.shtml,1995-07-11,2021-04-12,['Pitcher'],ChicagoCubs
-Spencer Steer,/players/s/steersp01.shtml,1997-12-07,2022-09-02,"['FirstBaseman,Leftfielder', 'ThirdBaseman']",CincinnatiReds
+Spencer Steer,/players/s/steersp01.shtml,1997-12-07,2022-09-02,"['FirstBaseman', 'Leftfielder', 'ThirdBaseman']",CincinnatiReds
 Michael Stefanic,/players/s/stefami01.shtml,1996-02-24,2022-07-03,"['SecondBaseman', 'ThirdBaseman']",LosAngelesAngels
 Trevor Stephan,/players/s/stephtr01.shtml,1995-11-25,2021-04-03,['Pitcher'],ClevelandGuardians
 Jackson Stephens,/players/s/stephja01.shtml,1994-05-11,2017-07-01,['Pitcher'],AtlantaBraves
@@ -1385,16 +1385,16 @@ Mike Tauchman,/players/t/tauchmi01.shtml,1990-12-03,2017-06-27,['Outfielder'],Ch
 Leody Taveras,/players/t/taverle01.shtml,1998-09-08,2020-07-24,['Centerfielder'],TexasRangers
 Beau Taylor,/players/t/taylobe11.shtml,1990-02-13,2018-09-01,['Catcher'],SeattleMariners
 Blake Taylor,/players/t/taylobl01.shtml,1995-08-17,2020-07-24,['Pitcher'],TexasRangers
-Chris Taylor,/players/t/tayloch03.shtml,1990-08-29,2014-07-24,"['Outfielder,Shortstop', 'SecondBaseman']",LosAngelesDodgers
+Chris Taylor,/players/t/tayloch03.shtml,1990-08-29,2014-07-24,"['Outfielder', 'Shortstop', 'SecondBaseman']",LosAngelesDodgers
 Josh Taylor,/players/t/taylojo02.shtml,1993-03-02,2019-05-29,['Pitcher'],KansasCityRoyals
 Michael A. Taylor,/players/t/taylomi02.shtml,1991-03-26,2014-08-12,['Centerfielder'],PittsburghPirates
-Samad Taylor,/players/t/taylosa04.shtml,1998-07-11,2023-06-17,"['Leftfielder,SecondBaseman', 'ThirdBaseman']",SeattleMariners
+Samad Taylor,/players/t/taylosa04.shtml,1998-07-11,2023-06-17,"['Leftfielder', 'SecondBaseman', 'ThirdBaseman']",SeattleMariners
 Tyrone Taylor,/players/t/tayloty01.shtml,1994-01-22,2019-09-07,['Outfielder'],NewYorkMets
 Julio Teheran,/players/t/teherju01.shtml,1991-01-27,2011-05-07,['Pitcher'],
 Rowdy Tellez,/players/t/tellero01.shtml,1995-03-16,2018-09-05,['FirstBaseman'],PittsburghPirates
-José Tena,/players/t/tenajo01.shtml,2001-03-20,2023-08-05,"['Shortstop,SecondBaseman', 'ThirdBaseman']",ClevelandGuardians
+José Tena,/players/t/tenajo01.shtml,2001-03-20,2023-08-05,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",ClevelandGuardians
 Kai-Wei Teng,/players/t/tengka01.shtml,1998-12-01,,['Pitcher'],SanFranciscoGiants
-Matt Thaiss,/players/t/thaisma01.shtml,1995-05-06,2019-07-03,"['Catcher,ThirdBaseman', 'FirstBaseman']",LosAngelesAngels
+Matt Thaiss,/players/t/thaisma01.shtml,1995-05-06,2019-07-03,"['Catcher', 'ThirdBaseman', 'FirstBaseman']",LosAngelesAngels
 Juan Then,/players/t/thenju01.shtml,2000-02-07,2023-05-06,['Pitcher'],ChicagoWhiteSox
 Caleb Thielbar,/players/t/thielca01.shtml,1987-01-31,2013-05-20,['Pitcher'],MinnesotaTwins
 Alek Thomas,/players/t/thomaal01.shtml,2000-04-28,2022-05-08,['Centerfielder'],ArizonaDiamondbacks
@@ -1413,41 +1413,41 @@ Andrew Toles,/players/t/tolesan01.shtml,1992-05-24,2016-07-08,"['Outfielder', 'P
 Michael Tonkin,/players/t/tonkimi01.shtml,1989-11-19,2013-07-11,['Pitcher'],MinnesotaTwins
 Justin Topa,/players/t/topaju01.shtml,1991-03-07,2020-09-01,['Pitcher'],MinnesotaTwins
 Spencer Torkelson,/players/t/torkesp01.shtml,1999-08-26,2022-04-08,['FirstBaseman'],DetroitTigers
-Abraham Toro,/players/t/toroab01.shtml,1996-12-20,2019-08-22,"['SecondBaseman,ThirdBaseman', 'FirstBaseman']",OaklandAthletics
+Abraham Toro,/players/t/toroab01.shtml,1996-12-20,2019-08-22,"['SecondBaseman', 'ThirdBaseman', 'FirstBaseman']",OaklandAthletics
 Luis Torrens,/players/t/torrelu01.shtml,1996-05-02,2017-04-03,"['Catcher', 'DesignatedHitter']",NewYorkYankees
 Gleyber Torres,/players/t/torregl01.shtml,1996-12-13,2018-04-22,"['SecondBaseman', 'Shortstop']",NewYorkYankees
 Touki Toussaint,/players/t/toussto01.shtml,1996-06-20,2018-08-13,['Pitcher'],ChicagoWhiteSox
 Ezequiel Tovar,/players/t/tovarez01.shtml,2001-08-01,2022-09-23,['Shortstop'],ColoradoRockies
 Taylor Trammell,/players/t/trammta01.shtml,1997-09-13,2021-04-01,['Outfielder'],LosAngelesDodgers
 Blake Treinen,/players/t/treinbl01.shtml,1988-06-30,2014-04-12,['Pitcher'],LosAngelesDodgers
-Alan Trejo,/players/t/trejoal01.shtml,1996-05-30,2021-04-10,"['SecondBaseman,Shortstop', 'ThirdBaseman']",ColoradoRockies
+Alan Trejo,/players/t/trejoal01.shtml,1996-05-30,2021-04-10,"['SecondBaseman', 'Shortstop', 'ThirdBaseman']",ColoradoRockies
 Jose Trevino,/players/t/trevijo01.shtml,1992-11-28,2018-06-15,['Catcher'],NewYorkYankees
-Jared Triolo,/players/t/triolja01.shtml,1998-02-08,2023-06-28,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",PittsburghPirates
+Jared Triolo,/players/t/triolja01.shtml,1998-02-08,2023-06-28,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",PittsburghPirates
 Lou Trivino,/players/t/trivilo01.shtml,1991-10-01,2018-04-17,['Pitcher'],NewYorkYankees
 Chadwick Tromp,/players/t/trompch01.shtml,1995-03-21,2020-07-29,['Catcher'],AtlantaBraves
 Mike Trout,/players/t/troutmi01.shtml,1991-08-07,2011-07-08,['Centerfielder'],LosAngelesAngels
-Cole Tucker,/players/t/tuckeco01.shtml,1996-07-03,2019-04-20,"['Shortstop,Rightfielder', 'SecondBaseman']",
+Cole Tucker,/players/t/tuckeco01.shtml,1996-07-03,2019-04-20,"['Shortstop', 'Rightfielder', 'SecondBaseman']",
 Kyle Tucker,/players/t/tuckeky01.shtml,1997-01-17,2018-07-07,['Rightfielder'],HoustonAstros
 Tanner Tully,/players/t/tullyta01.shtml,1994-11-30,2022-04-22,['Pitcher'],NewYorkYankees
 Brice Turang,/players/t/turanbr02.shtml,1999-11-21,2023-03-30,"['SecondBaseman', 'Shortstop']",MilwaukeeBrewers
 Spencer Turnbull,/players/t/turnbsp01.shtml,1992-09-18,2018-09-14,['Pitcher'],PhiladelphiaPhillies
-Justin Turner,/players/t/turneju01.shtml,1984-11-23,2009-09-08,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",TorontoBlueJays
-Trea Turner,/players/t/turnetr01.shtml,1993-06-30,2015-08-21,"['Shortstop,SecondBaseman', 'Centerfielder']",PhiladelphiaPhillies
+Justin Turner,/players/t/turneju01.shtml,1984-11-23,2009-09-08,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",TorontoBlueJays
+Trea Turner,/players/t/turnetr01.shtml,1993-06-30,2015-08-21,"['Shortstop', 'SecondBaseman', 'Centerfielder']",PhiladelphiaPhillies
 Kyle Tyler,/players/t/tylerky01.shtml,1996-12-27,2021-09-05,['Pitcher'],MiamiMarlins
 Edwin Uceta,/players/u/ucetaed01.shtml,1998-01-09,2021-04-30,['Pitcher'],TampaBayRays
 Duane Underwood Jr.,/players/u/underdu01.shtml,1994-07-20,2018-06-25,['Pitcher'],NewYorkYankees
 José Ureña,/players/u/urenajo01.shtml,1991-09-12,2015-04-14,['Pitcher'],TexasRangers
-Luis Urías,/players/u/uriaslu01.shtml,1997-06-03,2018-08-28,"['ThirdBaseman,SecondBaseman', 'Shortstop']",SeattleMariners
-Ramón Urías,/players/u/uriasra01.shtml,1994-06-03,2020-08-20,"['ThirdBaseman,SecondBaseman', 'Shortstop']",BaltimoreOrioles
+Luis Urías,/players/u/uriaslu01.shtml,1997-06-03,2018-08-28,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",SeattleMariners
+Ramón Urías,/players/u/uriasra01.shtml,1994-06-03,2020-08-20,"['ThirdBaseman', 'SecondBaseman', 'Shortstop']",BaltimoreOrioles
 Abner Uribe,/players/u/uribeab01.shtml,2000-06-20,2023-07-08,['Pitcher'],MilwaukeeBrewers
 José Urquidy,/players/u/urquijo01.shtml,1995-05-01,2019-07-02,['Pitcher'],HoustonAstros
-Gio Urshela,/players/u/urshegi01.shtml,1991-10-11,2015-06-09,"['ThirdBaseman,Shortstop', 'FirstBaseman']",DetroitTigers
+Gio Urshela,/players/u/urshegi01.shtml,1991-10-11,2015-06-09,"['ThirdBaseman', 'Shortstop', 'FirstBaseman']",DetroitTigers
 Enmanuel Valdez,/players/v/valdeen01.shtml,1998-12-28,2023-04-19,['SecondBaseman'],BostonRedSox
 Framber Valdez,/players/v/valdefr01.shtml,1993-11-19,2018-08-21,['Pitcher'],HoustonAstros
-Josh VanMeter,/players/v/vanmejo01.shtml,1995-03-10,2019-05-05,"['SecondBaseman,PinchHitter', 'Leftfielder']",NewYorkYankees
+Josh VanMeter,/players/v/vanmejo01.shtml,1995-03-10,2019-05-05,"['SecondBaseman', 'PinchHitter', 'Leftfielder']",NewYorkYankees
 Carlos Vargas,/players/v/vargaca01.shtml,1999-10-13,2023-03-30,['Pitcher'],SeattleMariners
-Ildemaro Vargas,/players/v/vargail01.shtml,1991-07-16,2017-06-29,"['ThirdBaseman,SecondBaseman', 'PinchHitter']",WashingtonNationals
-Miguel Vargas,/players/v/vargami01.shtml,1999-11-17,2022-08-03,"['SecondBaseman,FirstBaseman', 'Leftfielder']",LosAngelesDodgers
+Ildemaro Vargas,/players/v/vargail01.shtml,1991-07-16,2017-06-29,"['ThirdBaseman', 'SecondBaseman', 'PinchHitter']",WashingtonNationals
+Miguel Vargas,/players/v/vargami01.shtml,1999-11-17,2022-08-03,"['SecondBaseman', 'FirstBaseman', 'Leftfielder']",LosAngelesDodgers
 Gus Varland,/players/v/varlagu01.shtml,1996-11-06,2023-03-30,['Pitcher'],LosAngelesDodgers
 Louie Varland,/players/v/varlalo01.shtml,1997-12-09,2022-09-07,['Pitcher'],MinnesotaTwins
 Daulton Varsho,/players/v/varshda01.shtml,1996-07-02,2020-07-30,"['Outfielder', 'Catcher']",TorontoBlueJays
@@ -1457,7 +1457,7 @@ Andrew Vaughn,/players/v/vaughan01.shtml,1998-04-03,2021-04-02,"['FirstBaseman',
 Terrin Vavra,/players/v/vavrate01.shtml,1997-05-12,2022-07-29,"['Outfielder', 'SecondBaseman']",BaltimoreOrioles
 Christian Vázquez,/players/v/vazquch01.shtml,1990-08-21,2014-07-09,['Catcher'],MinnesotaTwins
 Felipe Vazquez,/players/r/riverfe01.shtml,1991-07-05,2015-04-17,['Pitcher'],PittsburghPirates
-Andrew Velazquez,/players/v/velazan01.shtml,1994-07-14,2018-09-02,"['Shortstop,SecondBaseman', 'Outfielder']",AtlantaBraves
+Andrew Velazquez,/players/v/velazan01.shtml,1994-07-14,2018-09-02,"['Shortstop', 'SecondBaseman', 'Outfielder']",AtlantaBraves
 Nelson Velázquez,/players/v/velazne01.shtml,1998-12-26,2022-05-30,['Outfielder'],KansasCityRoyals
 Anthony Veneziano,/players/v/venezan01.shtml,1997-09-01,2023-09-26,['Pitcher'],KansasCityRoyals
 Alex Verdugo,/players/v/verdual01.shtml,1996-05-15,2017-09-01,['Outfielder'],NewYorkYankees
@@ -1466,21 +1466,21 @@ Alex Vesia,/players/v/vesiaal01.shtml,1996-04-11,2020-07-25,['Pitcher'],LosAngel
 Nick Vespi,/players/v/vespini01.shtml,1995-10-10,2022-05-20,['Pitcher'],BaltimoreOrioles
 Will Vest,/players/v/vestwi01.shtml,1995-06-06,2021-04-01,['Pitcher'],DetroitTigers
 Thyago Vieira,/players/v/vieirth01.shtml,1993-01-07,2017-08-14,['Pitcher'],MilwaukeeBrewers
-Mark Vientos,/players/v/vientma01.shtml,1999-12-11,2022-09-11,"['DesignatedHitter,ThirdBaseman', 'FirstBaseman']",NewYorkMets
-Matt Vierling,/players/v/vierlma01.shtml,1996-09-16,2021-06-19,"['Outfielder,ThirdBaseman', 'FirstBaseman']",DetroitTigers
+Mark Vientos,/players/v/vientma01.shtml,1999-12-11,2022-09-11,"['DesignatedHitter', 'ThirdBaseman', 'FirstBaseman']",NewYorkMets
+Matt Vierling,/players/v/vierlma01.shtml,1996-09-16,2021-06-19,"['Outfielder', 'ThirdBaseman', 'FirstBaseman']",DetroitTigers
 Ryan Vilade,/players/v/viladry01.shtml,1999-02-18,2021-09-18,"['Leftfielder', 'PinchRunner']",DetroitTigers
-David Villar,/players/v/villada01.shtml,1997-01-27,2022-07-04,"['ThirdBaseman,SecondBaseman', 'FirstBaseman']",SanFranciscoGiants
+David Villar,/players/v/villada01.shtml,1997-01-27,2022-07-04,"['ThirdBaseman', 'SecondBaseman', 'FirstBaseman']",SanFranciscoGiants
 Meibrys Viloria,/players/v/vilorme01.shtml,1997-02-15,2018-09-02,['Catcher'],
 Darius Vines,/players/v/vinesda01.shtml,1998-04-30,2023-08-30,['Pitcher'],AtlantaBraves
 Victor Vodnik,/players/v/vodnivi01.shtml,1999-10-09,2023-09-09,['Pitcher'],ColoradoRockies
 Daniel Vogelbach,/players/v/vogelda01.shtml,1992-12-17,2016-09-12,"['DesignatedHitter', 'FirstBaseman']",TorontoBlueJays
 Anthony Volpe,/players/v/volpean01.shtml,2001-04-28,2023-03-30,['Shortstop'],NewYorkYankees
-Jason Vosler,/players/v/vosleja01.shtml,1993-09-06,2021-04-24,"['ThirdBaseman,FirstBaseman', 'Leftfielder']",SeattleMariners
+Jason Vosler,/players/v/vosleja01.shtml,1993-09-06,2021-04-24,"['ThirdBaseman', 'FirstBaseman', 'Leftfielder']",SeattleMariners
 Austin Voth,/players/v/vothau01.shtml,1992-06-26,2018-07-14,['Pitcher'],SeattleMariners
 Joey Votto,/players/v/vottojo01.shtml,1983-09-10,2007-09-04,['FirstBaseman'],TorontoBlueJays
 Michael Wacha,/players/w/wachami01.shtml,1991-07-01,2013-05-30,['Pitcher'],KansasCityRoyals
 LaMonte Wade Jr.,/players/w/wadela01.shtml,1994-01-01,2019-06-28,"['Outfielder', 'FirstBaseman']",SanFranciscoGiants
-Tyler Wade,/players/w/wadety01.shtml,1994-11-23,2017-06-27,"['SecondBaseman,Shortstop', 'Outfielder']",SanDiegoPadres
+Tyler Wade,/players/w/wadety01.shtml,1994-11-23,2017-06-27,"['SecondBaseman', 'Shortstop', 'Outfielder']",SanDiegoPadres
 Jacob Waguespack,/players/w/wagueja01.shtml,1993-11-05,2019-05-27,['Pitcher'],TampaBayRays
 Cole Waites,/players/w/waiteco01.shtml,1998-06-10,2022-09-13,['Pitcher'],SanFranciscoGiants
 Ken Waldichuk,/players/w/waldike01.shtml,1998-01-08,2022-09-01,['Pitcher'],OaklandAthletics
@@ -1493,12 +1493,12 @@ Taijuan Walker,/players/w/walketa01.shtml,1992-08-13,2013-08-30,['Pitcher'],Phil
 Forrest Wall,/players/w/wallfo01.shtml,1995-11-20,2023-07-22,"['Outfielder', 'PinchRunner']",AtlantaBraves
 Chad Wallach,/players/w/wallach01.shtml,1991-11-04,2017-08-27,['Catcher'],LosAngelesAngels
 Matt Wallner,/players/w/wallnma01.shtml,1997-12-12,2022-09-17,['Outfielder'],MinnesotaTwins
-Taylor Walls,/players/w/wallsta01.shtml,1996-07-10,2021-05-22,"['Shortstop,SecondBaseman', 'ThirdBaseman']",TampaBayRays
+Taylor Walls,/players/w/wallsta01.shtml,1996-07-10,2021-05-22,"['Shortstop', 'SecondBaseman', 'ThirdBaseman']",TampaBayRays
 Jake Walsh,/players/w/walshja02.shtml,1995-07-20,2022-05-11,['Pitcher'],AtlantaBraves
 Jared Walsh,/players/w/walshja01.shtml,1993-07-30,2019-05-15,"['FirstBaseman', 'Rightfielder']",TexasRangers
 Brandon Walter,/players/w/waltebr01.shtml,1996-09-08,2023-06-22,['Pitcher'],BostonRedSox
 Nash Walters,/players/w/waltena01.shtml,1997-05-18,2022-10-05,['Pitcher'],WashingtonNationals
-Donovan Walton,/players/w/waltodo01.shtml,1994-05-25,2019-09-10,"['SecondBaseman,Shortstop', 'Leftfielder']",SanFranciscoGiants
+Donovan Walton,/players/w/waltodo01.shtml,1994-05-25,2019-09-10,"['SecondBaseman', 'Shortstop', 'Leftfielder']",SanFranciscoGiants
 Andrew Wantz,/players/w/wantzan01.shtml,1995-10-13,2021-07-04,['Pitcher'],LosAngelesAngels
 Taylor Ward,/players/w/wardta01.shtml,1993-12-14,2018-08-14,"['Outfielder', 'ThirdBaseman']",LosAngelesAngels
 Thaddeus Ward,/players/w/wardth01.shtml,1997-01-16,2023-04-01,['Pitcher'],WashingtonNationals
@@ -1515,7 +1515,7 @@ Zack Weiss,/players/w/weissza01.shtml,1992-06-16,2018-04-12,['Pitcher'],Minnesot
 Greg Weissert,/players/w/weissgr01.shtml,1995-02-04,2022-08-25,['Pitcher'],BostonRedSox
 Austin Wells,/players/w/wellsau01.shtml,1999-07-12,2023-09-01,['Catcher'],NewYorkYankees
 Tyler Wells,/players/w/wellsty01.shtml,1994-08-26,2021-04-04,['Pitcher'],BaltimoreOrioles
-Joey Wendle,/players/w/wendljo01.shtml,1990-04-26,2016-08-31,"['SecondBaseman,ThirdBaseman', 'Shortstop']",NewYorkMets
+Joey Wendle,/players/w/wendljo01.shtml,1990-04-26,2016-08-31,"['SecondBaseman', 'ThirdBaseman', 'Shortstop']",NewYorkMets
 Davis Wendzel,/players/w/wendzda01.shtml,1997-05-23,,['ThirdBaseman'],TexasRangers
 Joey Wentz,/players/w/wentzjo01.shtml,1997-10-06,2022-05-11,['Pitcher'],DetroitTigers
 Hayden Wesneski,/players/w/wesneha01.shtml,1997-12-05,2022-09-06,['Pitcher'],ChicagoCubs
@@ -1534,7 +1534,7 @@ Joey Wiemer,/players/w/wiemejo01.shtml,1999-02-11,2023-04-01,['Centerfielder'],M
 Alika Williams,/players/w/willial04.shtml,1999-03-12,2023-07-25,"['Shortstop', 'SecondBaseman']",PittsburghPirates
 Devin Williams,/players/w/willide03.shtml,1994-09-21,2019-08-07,['Pitcher'],MilwaukeeBrewers
 Gavin Williams,/players/w/williga01.shtml,1999-07-26,2023-06-21,['Pitcher'],ClevelandGuardians
-Luke Williams,/players/w/willilu01.shtml,1996-08-09,2021-06-08,"['Outfielder,ThirdBaseman', 'SecondBaseman']",AtlantaBraves
+Luke Williams,/players/w/willilu01.shtml,1996-08-09,2021-06-08,"['Outfielder', 'ThirdBaseman', 'SecondBaseman']",AtlantaBraves
 Trevor Williams,/players/w/willitr01.shtml,1992-04-25,2016-09-07,['Pitcher'],WashingtonNationals
 Brandon Williamson,/players/w/willibr02.shtml,1998-04-02,2023-05-16,['Pitcher'],CincinnatiReds
 Amos Willingham,/players/w/william01.shtml,1998-08-21,2023-06-28,['Pitcher'],WashingtonNationals
@@ -1542,7 +1542,7 @@ Bryse Wilson,/players/w/wilsobr02.shtml,1997-12-20,2018-08-20,['Pitcher'],Milwau
 Cody Wilson,/players/w/wilsoco01.shtml,1996-07-04,2021-04-07,['PinchHitter'],WashingtonNationals
 Justin Wilson,/players/w/wilsoju10.shtml,1987-08-18,2012-08-20,['Pitcher'],CincinnatiReds
 Steven Wilson,/players/w/wilsost02.shtml,1994-08-24,2022-04-09,['Pitcher'],ChicagoWhiteSox
-Weston Wilson,/players/w/wilsowe01.shtml,1994-09-11,2023-08-09,"['Leftfielder,FirstBaseman', 'SecondBaseman']",PhiladelphiaPhillies
+Weston Wilson,/players/w/wilsowe01.shtml,1994-09-11,2023-08-09,"['Leftfielder', 'FirstBaseman', 'SecondBaseman']",PhiladelphiaPhillies
 Allan Winans,/players/w/winanal01.shtml,1995-08-10,2023-07-22,['Pitcher'],AtlantaBraves
 Josh Winckowski,/players/w/winckjo01.shtml,1998-06-28,2022-05-28,['Pitcher'],BostonRedSox
 Josh Winder,/players/w/windejo01.shtml,1996-10-11,2022-04-12,['Pitcher'],MinnesotaTwins
@@ -1550,7 +1550,7 @@ Trey Wingenter,/players/w/wingetr01.shtml,1994-04-15,2018-08-07,['Pitcher'],Detr
 Jesse Winker,/players/w/winkeje01.shtml,1993-08-17,2017-04-14,['Leftfielder'],WashingtonNationals
 Keaton Winn,/players/w/winnke01.shtml,1998-02-20,2023-06-13,['Pitcher'],SanFranciscoGiants
 Masyn Winn,/players/w/winnma01.shtml,2002-03-21,2023-08-18,['Shortstop'],St.LouisCardinals
-Patrick Wisdom,/players/w/wisdopa01.shtml,1991-08-27,2018-08-12,"['ThirdBaseman,FirstBaseman', 'Outfielder']",ChicagoCubs
+Patrick Wisdom,/players/w/wisdopa01.shtml,1991-08-27,2018-08-12,"['ThirdBaseman', 'FirstBaseman', 'Outfielder']",ChicagoCubs
 Brett Wisely,/players/w/wiselbr01.shtml,1999-05-08,2023-03-30,"['SecondBaseman', 'Centerfielder']",SanFranciscoGiants
 Bobby Witt Jr.,/players/w/wittbo02.shtml,2000-06-14,2022-04-07,"['Shortstop', 'ThirdBaseman']",KansasCityRoyals
 Jackson Wolf,/players/w/wolfja01.shtml,1999-04-22,2023-07-22,['Pitcher'],SanDiegoPadres
@@ -1569,7 +1569,7 @@ Ryan Yarbrough,/players/y/yarbrry01.shtml,1991-12-31,2018-03-31,['Pitcher'],LosA
 Mike Yastrzemski,/players/y/yastrmi01.shtml,1990-08-23,2019-05-25,['Outfielder'],SanFranciscoGiants
 Kirby Yates,/players/y/yateski01.shtml,1987-03-25,2014-06-07,['Pitcher'],TexasRangers
 Christian Yelich,/players/y/yelicch01.shtml,1991-12-05,2013-07-23,['Leftfielder'],MilwaukeeBrewers
-Juan Yepez,/players/y/yepezju01.shtml,1998-02-19,2022-05-04,"['Outfielder,DesignatedHitter', 'FirstBaseman']",WashingtonNationals
+Juan Yepez,/players/y/yepezju01.shtml,1998-02-19,2022-05-04,"['Outfielder', 'DesignatedHitter', 'FirstBaseman']",WashingtonNationals
 Huascar Ynoa,/players/y/ynoahu01.shtml,1998-05-28,2019-06-16,['Pitcher'],AtlantaBraves
 Masataka Yoshida,/players/y/yoshima02.shtml,1993-07-15,2023-03-30,"['Leftfielder', 'DesignatedHitter']",BostonRedSox
 Alex Young,/players/y/youngal01.shtml,1993-09-09,2019-06-27,['Pitcher'],CincinnatiReds
